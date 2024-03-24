@@ -1,0 +1,179 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,40,"KHM","Cambodia",1,"Bântéay Méanchey",1,"Malai","Srok","District",NA,NA
+2,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei","Srok","District",NA,NA
+3,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov","Srok","District",NA,NA
+4,40,"KHM","Cambodia",1,"Bântéay Méanchey",4,"Phnum Srok","Srok","District",NA,NA
+5,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah","Srok","District",NA,NA
+6,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan","Srok","District",NA,NA
+7,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek","Srok","District",NA,NA
+8,40,"KHM","Cambodia",1,"Bântéay Méanchey",8,"Thma Puok","Srok","District",NA,NA
+9,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum","Srok","District",NA,NA
+10,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan","Srok","District",NA,NA
+11,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang","Srok","District",NA,"Batdambang"
+12,40,"KHM","Cambodia",2,"Batdâmbâng",12,"Bavel","Srok","District",NA,NA
+13,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei","Srok","District",NA,NA
+14,40,"KHM","Cambodia",2,"Batdâmbâng",14,"Phnum Proek","Srok","District",NA,NA
+15,40,"KHM","Cambodia",2,"Batdâmbâng",15,"Rotanak Mondol","Srok","District",NA,"Rotonak Mondol"
+16,40,"KHM","Cambodia",2,"Batdâmbâng",16,"Samlout","Srok","District",NA,NA
+17,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae","Srok","District",NA,NA
+18,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao","Srok","District",NA,NA
+19,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey","Srok","District",NA,NA
+20,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas","Srok","District",NA,NA
+21,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk","Srok","District",NA,NA
+22,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri","Srok","District",NA,NA
+23,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong","Srok","District",NA,NA
+24,40,"KHM","Cambodia",3,"Kâmpôt",24,"Kampong Bay","Srok","District",NA,NA
+25,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach","Srok","District",NA,NA
+26,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot","Srok","District",NA,NA
+27,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay","Srok","District",NA,NA
+28,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu","Srok","District",NA,NA
+29,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey","Srok","District",NA,NA
+30,40,"KHM","Cambodia",4,"Kâmpóng Cham",30,"Kampong Cham","Srok","District",NA,NA
+31,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem","Srok","District",NA,NA
+32,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas","Srok","District",NA,NA
+33,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin","Srok","District",NA,NA
+34,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor","Srok","District",NA,NA
+35,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor","Srok","District",NA,NA
+36,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang","Srok","District",NA,NA
+37,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour","Srok","District",NA,NA
+38,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",38,"Chol Kiri","Srok","District",NA,NA
+39,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",39,"Kampong Chhnang","Srok","District",NA,NA
+40,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng","Srok","District",NA,NA
+41,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach","Srok","District",NA,NA
+42,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier","Srok","District",NA,NA
+43,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey","Srok","District",NA,NA
+44,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos","Srok","District",NA,NA
+45,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral","Srok","District",NA,NA
+46,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth","Srok","District",NA,NA
+47,40,"KHM","Cambodia",6,"Kâmpóng Spœ",47,"Chbar Mon","Srok","District",NA,NA
+48,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei","Srok","District",NA,NA
+49,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk","Srok","District",NA,NA
+50,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch","Srok","District",NA,NA
+51,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong","Srok","District",NA,NA
+52,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong","Srok","District",NA,NA
+53,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray","Srok","District",NA,NA
+54,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay","Srok","District",NA,NA
+55,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk","Srok","District",NA,NA
+56,40,"KHM","Cambodia",7,"Kâmpóng Thum",56,"Prasat Sambour","Srok","District",NA,NA
+57,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan","Srok","District",NA,NA
+58,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk","Srok","District",NA,NA
+59,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung","Srok","District",NA,NA
+60,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen","Srok","District",NA,NA
+61,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol","Srok","District",NA,NA
+62,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng","Srok","District",NA,NA
+63,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum","Srok","District",NA,NA
+64,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal","Srok","District",NA,NA
+65,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay","Srok","District",NA,NA
+66,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek","Srok","District",NA,NA
+67,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem","Srok","District",NA,NA
+68,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul","Srok","District",NA,NA
+69,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu","Srok","District",NA,NA
+70,40,"KHM","Cambodia",8,"Kândal",70,"S'ang","Srok","District",NA,NA
+71,40,"KHM","Cambodia",8,"Kândal",71,"Ta Khmau","Srok","District",NA,NA
+72,40,"KHM","Cambodia",9,"Kaôh Kong",72,"Botum Sakor","Srok","District",NA,NA
+73,40,"KHM","Cambodia",9,"Kaôh Kong",73,"Kampong Seila","Srok","District",NA,NA
+74,40,"KHM","Cambodia",9,"Kaôh Kong",74,"Kaoh Kong","Srok","District",NA,NA
+75,40,"KHM","Cambodia",9,"Kaôh Kong",75,"Kiri Sakor","Srok","District",NA,NA
+76,40,"KHM","Cambodia",9,"Kaôh Kong",76,"Mondol Seima","Srok","District",NA,NA
+77,40,"KHM","Cambodia",9,"Kaôh Kong",77,"Smach Mean Chey","Srok","District",NA,NA
+78,40,"KHM","Cambodia",9,"Kaôh Kong",78,"Srae Ambel","Srok","District",NA,NA
+79,40,"KHM","Cambodia",9,"Kaôh Kong",79,"Thma Bang","Srok","District",NA,NA
+80,40,"KHM","Cambodia",10,"Kep",80,"Kaeb","Srok","District",NA,NA
+81,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung","Srok","District",NA,NA
+82,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh","Srok","District",NA,NA
+83,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab","Srok","District",NA,NA
+84,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour","Srok","District",NA,NA
+85,40,"KHM","Cambodia",11,"Krâchéh",85,"Snuol","Srok","District",NA,NA
+86,40,"KHM","Cambodia",12,"Krong Pailin",86,"Pailin","Srok","District",NA,NA
+87,40,"KHM","Cambodia",12,"Krong Pailin",87,"Sala Krau","Srok","District",NA,NA
+88,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",88,"Mittakpheap","Srok","District",NA,NA
+89,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob","Srok","District",NA,NA
+90,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",90,"Stueng hav","Srok","District",NA,NA
+91,40,"KHM","Cambodia",14,"Môndól Kiri",91,"Kaev Seima","Srok","District",NA,NA
+92,40,"KHM","Cambodia",14,"Môndól Kiri",92,"Kaoh Nheaek","Srok","District",NA,NA
+93,40,"KHM","Cambodia",14,"Môndól Kiri",93,"Ou Reang","Srok","District",NA,NA
+94,40,"KHM","Cambodia",14,"Môndól Kiri",94,"Pechr Chenda","Srok","District",NA,NA
+95,40,"KHM","Cambodia",14,"Môndól Kiri",95,"Saen Monourom","Srok","District",NA,NA
+96,40,"KHM","Cambodia",15,"Otdar Mean Chey",96,"Anlong Veaeng","Srok","District",NA,NA
+97,40,"KHM","Cambodia",15,"Otdar Mean Chey",97,"Banteay Ampil","Srok","District",NA,NA
+98,40,"KHM","Cambodia",15,"Otdar Mean Chey",98,"Chong Kal","Srok","District",NA,NA
+99,40,"KHM","Cambodia",15,"Otdar Mean Chey",99,"Samraong","Srok","District",NA,NA
+100,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao","Srok","District",NA,NA
+101,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey","Srok","District",NA,NA
+102,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh","Srok","District",NA,NA
+103,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev","Srok","District",NA,NA
+104,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan","Srok","District",NA,NA
+105,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng","Srok","District",NA,NA
+106,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor","Srok","District",NA,NA
+107,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh","Srok","District",NA,NA
+108,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas","Srok","District",NA,NA
+109,40,"KHM","Cambodia",17,"Pouthisat",109,"Veal Veaeng","Srok","District",NA,NA
+110,40,"KHM","Cambodia",18,"Preah Vihéar",110,"Chey Saen","Srok","District",NA,NA
+111,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb","Srok","District",NA,NA
+112,40,"KHM","Cambodia",18,"Preah Vihéar",112,"Choam Khsant","Srok","District",NA,NA
+113,40,"KHM","Cambodia",18,"Preah Vihéar",113,"Kuleaen","Srok","District",NA,NA
+114,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng","Srok","District",NA,NA
+115,40,"KHM","Cambodia",18,"Preah Vihéar",115,"Sangkom Thmei","Srok","District",NA,NA
+116,40,"KHM","Cambodia",18,"Preah Vihéar",116,"Tbaeng Mean chey","Srok","District",NA,NA
+117,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum","Srok","District",NA,NA
+118,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear","Srok","District",NA,NA
+119,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav","Srok","District",NA,NA
+120,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek","Srok","District",NA,NA
+121,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech","Srok","District",NA,NA
+122,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang","Srok","District",NA,NA
+123,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang","Srok","District",NA,NA
+124,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor","Srok","District",NA,NA
+125,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro","Srok","District",NA,NA
+126,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach","Srok","District",NA,NA
+127,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng","Srok","District",NA,NA
+128,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal","Srok","District",NA,NA
+129,40,"KHM","Cambodia",20,"Rôtânôkiri",129,"Andoung Meas","Srok","District",NA,NA
+130,40,"KHM","Cambodia",20,"Rôtânôkiri",130,"Ban Lung","Srok","District",NA,NA
+131,40,"KHM","Cambodia",20,"Rôtânôkiri",131,"Bar Kaev","Srok","District",NA,NA
+132,40,"KHM","Cambodia",20,"Rôtânôkiri",132,"Koun Mom","Srok","District",NA,NA
+133,40,"KHM","Cambodia",20,"Rôtânôkiri",133,"Lumphat","Srok","District",NA,NA
+134,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum","Srok","District",NA,NA
+135,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav","Srok","District",NA,NA
+136,40,"KHM","Cambodia",20,"Rôtânôkiri",136,"Ta Veaeng","Srok","District",NA,NA
+137,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai","Srok","District",NA,NA
+138,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum","Srok","District",NA,NA
+139,40,"KHM","Cambodia",21,"Siemréab",139,"Angkor Thum","Srok","District",NA,NA
+140,40,"KHM","Cambodia",21,"Siemréab",140,"Banteay Srei","Srok","District",NA,NA
+141,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng","Srok","District",NA,NA
+142,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh","Srok","District",NA,NA
+143,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong","Srok","District",NA,NA
+144,40,"KHM","Cambodia",21,"Siemréab",144,"Puok","Srok","District",NA,NA
+145,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab","Srok","District",NA,NA
+146,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom","Srok","District",NA,NA
+147,40,"KHM","Cambodia",21,"Siemréab",147,"Srei Snam","Srok","District",NA,NA
+148,40,"KHM","Cambodia",21,"Siemréab",148,"Svay Leu","Srok","District",NA,NA
+149,40,"KHM","Cambodia",21,"Siemréab",149,"Varin","Srok","District",NA,NA
+150,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan","Srok","District",NA,NA
+151,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk","Srok","District",NA,NA
+152,40,"KHM","Cambodia",22,"Stœng Trêng",152,"Siem Pang","Srok","District",NA,NA
+153,40,"KHM","Cambodia",22,"Stœng Trêng",153,"Stueng Traeng","Srok","District",NA,NA
+154,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat","Srok","District",NA,NA
+155,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea","Srok","District",NA,NA
+156,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou","Srok","District",NA,NA
+157,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek","Srok","District",NA,NA
+158,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol","Srok","District",NA,NA
+159,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum","Srok","District",NA,NA
+160,40,"KHM","Cambodia",23,"Svay Rieng",160,"Svay Rieng","Srok","District",NA,NA
+161,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab","Srok","District",NA,NA
+162,40,"KHM","Cambodia",24,"Takêv",162,"Angkor Borei","Srok","District",NA,NA
+163,40,"KHM","Cambodia",24,"Takêv",163,"Bati","Srok","District",NA,NA
+164,40,"KHM","Cambodia",24,"Takêv",164,"Bourei Cholsar","Srok","District",NA,NA
+165,40,"KHM","Cambodia",24,"Takêv",165,"Doun Kaev","Srok","District",NA,NA
+166,40,"KHM","Cambodia",24,"Takêv",166,"Kaoh Andaet","Srok","District",NA,NA
+167,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong","Srok","District",NA,NA
+168,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas","Srok","District",NA,NA
+169,40,"KHM","Cambodia",24,"Takêv",169,"Samraong","Srok","District",NA,NA
+170,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak","Srok","District",NA,NA
+171,40,"KHM","Cambodia",24,"Takêv",171,"Treang","Srok","District",NA,NA
+172,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae","Srok","District",NA,NA
+173,40,"KHM","Cambodia",25,"Tbong Khmum",173,"Kampong Siem","Srok","District",NA,NA
+174,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar","Srok","District",NA,NA
+175,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot","Srok","District",NA,NA
+176,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov","Srok","District",NA,NA
+177,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek","Srok","District",NA,NA
+178,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum","Srok","District",NA,NA

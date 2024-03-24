@@ -1,0 +1,1577 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,40,"KHM","Cambodia",1,"Bântéay Méanchey",1,"Malai",1,"n.a. ( 192)","Khum","Commune",NA,NA
+2,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",2,"Banteay Neang","Khum","Commune",NA,NA
+3,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",3,"Bat Trang","Khum","Commune",NA,NA
+4,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",4,"Chamnaom","Khum","Commune",NA,NA
+5,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",5,"Kouk Ballangk","Khum","Commune",NA,NA
+6,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",6,"Koy Maeng","Khum","Commune",NA,NA
+7,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",7,"Ou Prasat","Khum","Commune",NA,NA
+8,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",8,"Phnum Touch","Khum","Commune",NA,NA
+9,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",9,"Rohat Tuek","Khum","Commune",NA,NA
+10,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",10,"Ruessei Kraok","Khum","Commune",NA,NA
+11,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",11,"Sambuor","Khum","Commune",NA,NA
+12,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",12,"Soea","Khum","Commune",NA,NA
+13,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",13,"Srah Reang","Khum","Commune",NA,NA
+14,40,"KHM","Cambodia",1,"Bântéay Méanchey",2,"Mongkol Borei",14,"Ta Lam","Khum","Commune",NA,NA
+15,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov",15,"Changha","Khum","Commune",NA,NA
+16,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov",16,"Koub","Khum","Commune",NA,NA
+17,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov",17,"Kuttasat","Khum","Commune",NA,NA
+18,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov",18,"Nimitt","Khum","Commune",NA,NA
+19,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov",19,"Samraong","Khum","Commune",NA,NA
+20,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov",20,"Soengh","Khum","Commune",NA,NA
+21,40,"KHM","Cambodia",1,"Bântéay Méanchey",3,"Ou Chrov",21,"Souphi","Khum","Commune",NA,NA
+22,40,"KHM","Cambodia",1,"Bântéay Méanchey",4,"Phnum Srok",22,"Nam Tau","Khum","Commune",NA,NA
+23,40,"KHM","Cambodia",1,"Bântéay Méanchey",4,"Phnum Srok",23,"Paoy Char","Khum","Commune",NA,NA
+24,40,"KHM","Cambodia",1,"Bântéay Méanchey",4,"Phnum Srok",24,"Phnum Dei","Khum","Commune",NA,NA
+25,40,"KHM","Cambodia",1,"Bântéay Méanchey",4,"Phnum Srok",25,"Ponley","Khum","Commune",NA,NA
+26,40,"KHM","Cambodia",1,"Bântéay Méanchey",4,"Phnum Srok",26,"Spean Sraeng","Khum","Commune",NA,NA
+27,40,"KHM","Cambodia",1,"Bântéay Méanchey",4,"Phnum Srok",27,"Srah Chik","Khum","Commune",NA,NA
+28,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",28,"Chhnuor Mean Chey","Khum","Commune",NA,NA
+29,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",29,"Chob Veari","Khum","Commune",NA,NA
+30,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",30,"Phnum Lieb","Khum","Commune",NA,NA
+31,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",31,"Prasat","Khum","Commune",NA,NA
+32,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",32,"Preah Netr Preah","Khum","Commune",NA,NA
+33,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",33,"Rohal","Khum","Commune",NA,NA
+34,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",34,"Tean Kam","Khum","Commune",NA,NA
+35,40,"KHM","Cambodia",1,"Bântéay Méanchey",5,"Preah Netr Preah",35,"Tuek Chour","Khum","Commune",NA,NA
+36,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",36,"Bos Sbov","Khum","Commune",NA,NA
+37,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",37,"Kampong Svay","Khum","Commune",NA,NA
+38,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",38,"Kaoh Pong Satv","Khum","Commune",NA,NA
+39,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",39,"Mkak","Khum","Commune",NA,NA
+40,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",40,"Ou Ambel","Khum","Commune",NA,NA
+41,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",41,"Phniet","Khum","Commune",NA,NA
+42,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",42,"Preah Ponlea","Khum","Commune",NA,NA
+43,40,"KHM","Cambodia",1,"Bântéay Méanchey",6,"Serei Saophoan",43,"Tuek Thla","Khum","Commune",NA,NA
+44,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",44,"Phkoam","Khum","Commune",NA,NA
+45,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",45,"Roluos","Khum","Commune",NA,NA
+46,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",46,"Sarongk","Khum","Commune",NA,NA
+47,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",47,"Sla Kram","Khum","Commune",NA,NA
+48,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",48,"Svay Chek","Khum","Commune",NA,NA
+49,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",49,"Ta Baen","Khum","Commune",NA,NA
+50,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",50,"Ta Phou","Khum","Commune",NA,NA
+51,40,"KHM","Cambodia",1,"Bântéay Méanchey",7,"Svay Chek",51,"Treas","Khum","Commune",NA,NA
+52,40,"KHM","Cambodia",1,"Bântéay Méanchey",8,"Thma Puok",52,"Banteay Chhmar","Khum","Commune",NA,NA
+53,40,"KHM","Cambodia",1,"Bântéay Méanchey",8,"Thma Puok",53,"Kouk Kakthen","Khum","Commune",NA,NA
+54,40,"KHM","Cambodia",1,"Bântéay Méanchey",8,"Thma Puok",54,"Kouk Romiet","Khum","Commune",NA,NA
+55,40,"KHM","Cambodia",1,"Bântéay Méanchey",8,"Thma Puok",55,"Kumru","Khum","Commune",NA,NA
+56,40,"KHM","Cambodia",1,"Bântéay Méanchey",8,"Thma Puok",56,"Phum Thmei","Khum","Commune",NA,NA
+57,40,"KHM","Cambodia",1,"Bântéay Méanchey",8,"Thma Puok",57,"Thma Puok","Khum","Commune",NA,NA
+58,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum",58,"Kaoh Chiveang","Khum","Commune",NA,NA
+59,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum",59,"Peam Aek","Khum","Commune",NA,NA
+60,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum",60,"Preaek Khpob","Khum","Commune",NA,NA
+61,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum",61,"Preaek Luong","Khum","Commune",NA,NA
+62,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum",62,"Preaek Norint","Khum","Commune",NA,NA
+63,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum",63,"Prey Chas","Khum","Commune",NA,NA
+64,40,"KHM","Cambodia",2,"Batdâmbâng",9,"Aek Phnum",64,"Samraong Knong","Khum","Commune",NA,NA
+65,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",65,"Bay Damram","Khum","Commune",NA,NA
+66,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",66,"Chaeng Mean Chey","Khum","Commune",NA,NA
+67,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",67,"Chheu Teal","Khum","Commune",NA,NA
+68,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",68,"Kantueu Muoy","Khum","Commune",NA,NA
+69,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",69,"Kantueu Pir","Khum","Commune",NA,NA
+70,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",70,"Phnum Sampov","Khum","Commune",NA,NA
+71,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",71,"Snoeng","Khum","Commune",NA,NA
+72,40,"KHM","Cambodia",2,"Batdâmbâng",10,"Banan",72,"Ta Kream","Khum","Commune",NA,NA
+73,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",73,"Anlong Run","Khum","Commune",NA,NA
+74,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",74,"Bansay Traeng","Khum","Commune",NA,NA
+75,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",75,"Boeng Pring","Khum","Commune",NA,NA
+76,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",76,"Chrey","Khum","Commune",NA,NA
+77,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",77,"Chrouy Sdau","Khum","Commune",NA,NA
+78,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",78,"Kouk Khmum","Khum","Commune",NA,NA
+79,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",79,"Ou Ta Ki","Khum","Commune",NA,NA
+80,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",80,"Rung Chrey","Khum","Commune",NA,NA
+81,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",81,"Ta Meun","Khum","Commune",NA,NA
+82,40,"KHM","Cambodia",2,"Batdâmbâng",11,"Bat Dambang",82,"Ta Pung","Khum","Commune",NA,NA
+83,40,"KHM","Cambodia",2,"Batdâmbâng",12,"Bavel",83,"Ampil Pram Daeum","Khum","Commune",NA,NA
+84,40,"KHM","Cambodia",2,"Batdâmbâng",12,"Bavel",84,"Bavel","Khum","Commune",NA,NA
+85,40,"KHM","Cambodia",2,"Batdâmbâng",12,"Bavel",85,"Kdol","Khum","Commune",NA,NA
+86,40,"KHM","Cambodia",2,"Batdâmbâng",12,"Bavel",86,"Khnach Romeas","Khum","Commune",NA,NA
+87,40,"KHM","Cambodia",2,"Batdâmbâng",12,"Bavel",87,"Lvea","Khum","Commune",NA,NA
+88,40,"KHM","Cambodia",2,"Batdâmbâng",12,"Bavel",88,"Prey Khpos","Khum","Commune",NA,NA
+89,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",89,"Chrey","Khum","Commune",NA,NA
+90,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",90,"Kakaoh","Khum","Commune",NA,NA
+91,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",91,"Kear","Khum","Commune",NA,NA
+92,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",92,"Moung Ruessei","Khum","Commune",NA,NA
+93,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",93,"n.a. ( 346)","Khum","Commune",NA,NA
+94,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",94,"n.a. ( 423)","Khum","Commune",NA,NA
+95,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",95,"Preaek Chik","Khum","Commune",NA,NA
+96,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",96,"Prey Svay","Khum","Commune",NA,NA
+97,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",97,"Prey Touch","Khum","Commune",NA,NA
+98,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",98,"Robas Mongkol","Khum","Commune",NA,NA
+99,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",99,"Ruessei Krang","Khum","Commune",NA,NA
+100,40,"KHM","Cambodia",2,"Batdâmbâng",13,"Moung Ruessei",100,"Ta Loas","Khum","Commune",NA,NA
+101,40,"KHM","Cambodia",2,"Batdâmbâng",14,"Phnum Proek",101,"n.a. ( 244)","Khum","Commune",NA,NA
+102,40,"KHM","Cambodia",2,"Batdâmbâng",15,"Rotanak Mondol",102,"Andaeuk Haeb","Khum","Commune",NA,NA
+103,40,"KHM","Cambodia",2,"Batdâmbâng",15,"Rotanak Mondol",103,"Phlov Meas","Khum","Commune",NA,NA
+104,40,"KHM","Cambodia",2,"Batdâmbâng",15,"Rotanak Mondol",104,"Sdau","Khum","Commune",NA,NA
+105,40,"KHM","Cambodia",2,"Batdâmbâng",15,"Rotanak Mondol",105,"Traeng","Khum","Commune",NA,NA
+106,40,"KHM","Cambodia",2,"Batdâmbâng",16,"Samlout",106,"n.a. ( 462)","Khum","Commune",NA,NA
+107,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",107,"Anlong Vil","Khum","Commune",NA,NA
+108,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",108,"Kampong Preah","Khum","Commune",NA,NA
+109,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",109,"Kampong Pring","Khum","Commune",NA,NA
+110,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",110,"n.a. ( 390)","Khum","Commune",NA,NA
+111,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",111,"Norea","Khum","Commune",NA,NA
+112,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",112,"Ou Dambang Muoy","Khum","Commune",NA,NA
+113,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",113,"Ou Dambang Pir","Khum","Commune",NA,NA
+114,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",114,"Reang Kesei","Khum","Commune",NA,NA
+115,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",115,"Roka","Khum","Commune",NA,NA
+116,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",116,"Ta Pon","Khum","Commune",NA,NA
+117,40,"KHM","Cambodia",2,"Batdâmbâng",17,"Sangkae",117,"Voat Ta Muem","Khum","Commune",NA,NA
+118,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",118,"Chamkar Samraong","Khum","Commune",NA,NA
+119,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",119,"Kdol Doun Teav","Khum","Commune",NA,NA
+120,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",120,"Ou Char","Khum","Commune",NA,NA
+121,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",121,"Ou Mal","Khum","Commune",NA,NA
+122,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",122,"Preaek Preah Sdach","Khum","Commune",NA,NA
+123,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",123,"Rotanak","Khum","Commune",NA,NA
+124,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",124,"Sla Kaet","Khum","Commune",NA,NA
+125,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",125,"Svay Pao","Khum","Commune",NA,NA
+126,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",126,"Tuol Ta Aek","Khum","Commune",NA,NA
+127,40,"KHM","Cambodia",2,"Batdâmbâng",18,"Svay Pao",127,"Voat Kor","Khum","Commune",NA,NA
+128,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",128,"Angk Phnum Touch","Khum","Commune",NA,NA
+129,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",129,"Angkor Chey","Khum","Commune",NA,NA
+130,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",130,"Champei","Khum","Commune",NA,NA
+131,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",131,"Daeum Doung","Khum","Commune",NA,NA
+132,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",132,"Dambouk Khpos","Khum","Commune",NA,NA
+133,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",133,"Dan Koum","Khum","Commune",NA,NA
+134,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",134,"Mroum","Khum","Commune",NA,NA
+135,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",135,"Phnum Kong","Khum","Commune",NA,NA
+136,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",136,"Praphnum","Khum","Commune",NA,NA
+137,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",137,"Samlanh","Khum","Commune",NA,NA
+138,40,"KHM","Cambodia",3,"Kâmpôt",19,"Angkor Chey",138,"Tani","Khum","Commune",NA,NA
+139,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",139,"Banteay Meas Khang K","Khum","Commune",NA,NA
+140,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",140,"Banteay Meas Khang L","Khum","Commune",NA,NA
+141,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",141,"Prey Tonle","Khum","Commune",NA,NA
+142,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",142,"Samraong Kraom","Khum","Commune",NA,NA
+143,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",143,"Samraong Leu","Khum","Commune",NA,NA
+144,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",144,"Sdach Kong Khang Che","Khum","Commune",NA,NA
+145,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",145,"Sdach Kong Khang Lec","Khum","Commune",NA,NA
+146,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",146,"Sdach Kong Khang Tbo","Khum","Commune",NA,NA
+147,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",147,"Tnaot Chong Srang","Khum","Commune",NA,NA
+148,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",148,"Trapeang Sala Khang","Khum","Commune",NA,NA
+149,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",149,"Tuk Meas Khang Kaeut","Khum","Commune",NA,NA
+150,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",150,"Tuk Meas Khang Lech","Khum","Commune",NA,NA
+151,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",151,"Voat Angk Khang Cheu","Khum","Commune",NA,NA
+152,40,"KHM","Cambodia",3,"Kâmpôt",20,"Banteay Meas",152,"Voat Angk Khang Tbou","Khum","Commune",NA,NA
+153,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",153,"Baniev","Khum","Commune",NA,NA
+154,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",154,"Boeng Nimol","Khum","Commune",NA,NA
+155,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",155,"Chhuk","Khum","Commune",NA,NA
+156,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",156,"Doun Yay","Khum","Commune",NA,NA
+157,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",157,"Krang Sbov","Khum","Commune",NA,NA
+158,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",158,"Krang Snay","Khum","Commune",NA,NA
+159,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",159,"Lbaeuk","Khum","Commune",NA,NA
+160,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",160,"Mean Chey","Khum","Commune",NA,NA
+161,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",161,"Nareay","Khum","Commune",NA,NA
+162,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",162,"Satv Pong","Khum","Commune",NA,NA
+163,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",163,"Tramaeng","Khum","Commune",NA,NA
+164,40,"KHM","Cambodia",3,"Kâmpôt",21,"Chhuk",164,"Trapeang Bei","Khum","Commune",NA,NA
+165,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri",165,"Chres","Khum","Commune",NA,NA
+166,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri",166,"Chumpu Voan","Khum","Commune",NA,NA
+167,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri",167,"Snay Anhchet","Khum","Commune",NA,NA
+168,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri",168,"Srae Chaeng","Khum","Commune",NA,NA
+169,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri",169,"Srae Knong","Khum","Commune",NA,NA
+170,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri",170,"Srae Samraong","Khum","Commune",NA,NA
+171,40,"KHM","Cambodia",3,"Kâmpôt",22,"Chum Kiri",171,"Trapeang Reang","Khum","Commune",NA,NA
+172,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",172,"Angkor Meas","Khum","Commune",NA,NA
+173,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",173,"Damnak Sokram","Khum","Commune",NA,NA
+174,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",174,"Dang Tong","Khum","Commune",NA,NA
+175,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",175,"Khcheay Khang Cheung","Khum","Commune",NA,NA
+176,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",176,"Khcheay Khang Tboung","Khum","Commune",NA,NA
+177,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",177,"L'ang","Khum","Commune",NA,NA
+178,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",178,"Mean Ritth","Khum","Commune",NA,NA
+179,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",179,"Srae Chea Khang Cheu","Khum","Commune",NA,NA
+180,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",180,"Srae Chea Khang Tbou","Khum","Commune",NA,NA
+181,40,"KHM","Cambodia",3,"Kâmpôt",23,"Dang Tong",181,"Totung","Khum","Commune",NA,NA
+182,40,"KHM","Cambodia",3,"Kâmpôt",24,"Kampong Bay",182,"Andoung Khmaer","Khum","Commune",NA,NA
+183,40,"KHM","Cambodia",3,"Kâmpôt",24,"Kampong Bay",183,"Kampong Bay","Khum","Commune",NA,NA
+184,40,"KHM","Cambodia",3,"Kâmpôt",24,"Kampong Bay",184,"Kampong Kandal","Khum","Commune",NA,NA
+185,40,"KHM","Cambodia",3,"Kâmpôt",24,"Kampong Bay",185,"Krang Ampil","Khum","Commune",NA,NA
+186,40,"KHM","Cambodia",3,"Kâmpôt",24,"Kampong Bay",186,"Traeuy Kaoh","Khum","Commune",NA,NA
+187,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",187,"Boeng Sala Khang Che","Khum","Commune",NA,NA
+188,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",188,"Boeng Sala Khang Tbo","Khum","Commune",NA,NA
+189,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",189,"Damnak Kantuot Khang","Khum","Commune",NA,NA
+190,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",190,"Kampong Trach Khang","Khum","Commune",NA,NA
+191,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",191,"Kanthaor Khang Cheun","Khum","Commune",NA,NA
+192,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",192,"Kanthaor Khang kaeut","Khum","Commune",NA,NA
+193,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",193,"Kanthaor Khang Lech","Khum","Commune",NA,NA
+194,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",194,"Preaek Kroes","Khum","Commune",NA,NA
+195,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",195,"Ruessei srok Khang K","Khum","Commune",NA,NA
+196,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",196,"Ruessei Srok Khang L","Khum","Commune",NA,NA
+197,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",197,"Svay Tong Khang Cheu","Khum","Commune",NA,NA
+198,40,"KHM","Cambodia",3,"Kâmpôt",25,"Kampong Trach",198,"Svay Tong Khang Tbou","Khum","Commune",NA,NA
+199,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",199,"Boeng Tuk","Khum","Commune",NA,NA
+200,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",200,"Chum Kriel","Khum","Commune",NA,NA
+201,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",201,"Kampong Kraeng","Khum","Commune",NA,NA
+202,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",202,"Kampong Samraong","Khum","Commune",NA,NA
+203,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",203,"Kandal","Khum","Commune",NA,NA
+204,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",204,"Kaoh Touch","Khum","Commune",NA,NA
+205,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",205,"Koun Satv","Khum","Commune",NA,NA
+206,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",206,"Meakprang","Khum","Commune",NA,NA
+207,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",207,"n.a. ( 1400)","Khum","Commune",NA,NA
+208,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",208,"Preaek Tnaot","Khum","Commune",NA,NA
+209,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",209,"Prey Khmum","Khum","Commune",NA,NA
+210,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",210,"Prey Thnang","Khum","Commune",NA,NA
+211,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",211,"Stueng Kaev","Khum","Commune",NA,NA
+212,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",212,"Thmei","Khum","Commune",NA,NA
+213,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",213,"Trapeang Pring","Khum","Commune",NA,NA
+214,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",214,"Trapeang sangkae","Khum","Commune",NA,NA
+215,40,"KHM","Cambodia",3,"Kâmpôt",26,"Kampot",215,"Trapeang Thum","Khum","Commune",NA,NA
+216,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",216,"Batheay","Khum","Commune",NA,NA
+217,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",217,"Chbar Ampov","Khum","Commune",NA,NA
+218,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",218,"Chealea","Khum","Commune",NA,NA
+219,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",219,"Cheung Prey","Khum","Commune",NA,NA
+220,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",220,"Me Pring","Khum","Commune",NA,NA
+221,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",221,"Ph'av","Khum","Commune",NA,NA
+222,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",222,"Sambour","Khum","Commune",NA,NA
+223,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",223,"Sandaek","Khum","Commune",NA,NA
+224,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",224,"Tang Krang","Khum","Commune",NA,NA
+225,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",225,"Tang Krasang","Khum","Commune",NA,NA
+226,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",226,"Trab","Khum","Commune",NA,NA
+227,40,"KHM","Cambodia",4,"Kâmpóng Cham",27,"Batheay",227,"Tumnob","Khum","Commune",NA,NA
+228,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",228,"Bos Khnaor","Khum","Commune",NA,NA
+229,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",229,"Chamkar Andoung","Khum","Commune",NA,NA
+230,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",230,"Cheyyou","Khum","Commune",NA,NA
+231,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",231,"Lvea Leu","Khum","Commune",NA,NA
+232,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",232,"Spueu","Khum","Commune",NA,NA
+233,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",233,"Svay Teab","Khum","Commune",NA,NA
+234,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",234,"Ta Ong","Khum","Commune",NA,NA
+235,40,"KHM","Cambodia",4,"Kâmpóng Cham",28,"Chamkar Leu",235,"Ta Prok","Khum","Commune",NA,NA
+236,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",236,"Khnaor Dambang","Khum","Commune",NA,NA
+237,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",237,"Kouk Rovieng","Khum","Commune",NA,NA
+238,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",238,"Phdau Chum","Khum","Commune",NA,NA
+239,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",239,"Prey Char","Khum","Commune",NA,NA
+240,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",240,"Pring Chrum","Khum","Commune",NA,NA
+241,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",241,"Sampong Chey","Khum","Commune",NA,NA
+242,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",242,"Sdaeung Chey","Khum","Commune",NA,NA
+243,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",243,"Soutip","Khum","Commune",NA,NA
+244,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",244,"Srama","Khum","Commune",NA,NA
+245,40,"KHM","Cambodia",4,"Kâmpóng Cham",29,"Cheung Prey",245,"Trapeang Kor","Khum","Commune",NA,NA
+246,40,"KHM","Cambodia",4,"Kâmpóng Cham",30,"Kampong Cham",246,"Boeng Kok","Khum","Commune",NA,NA
+247,40,"KHM","Cambodia",4,"Kâmpóng Cham",30,"Kampong Cham",247,"Kampong Cham","Khum","Commune",NA,NA
+248,40,"KHM","Cambodia",4,"Kâmpóng Cham",30,"Kampong Cham",248,"Sambuor Meas","Khum","Commune",NA,NA
+249,40,"KHM","Cambodia",4,"Kâmpóng Cham",30,"Kampong Cham",249,"Veal Vong","Khum","Commune",NA,NA
+250,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",250,"Ampil","Khum","Commune",NA,NA
+251,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",251,"Han Chey","Khum","Commune",NA,NA
+252,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",252,"Kaoh Mitt","Khum","Commune",NA,NA
+253,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",253,"Kaoh Roka","Khum","Commune",NA,NA
+254,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",254,"Kaoh Tontuem","Khum","Commune",NA,NA
+255,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",255,"Kien Chrey","Khum","Commune",NA,NA
+256,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",256,"Kokor","Khum","Commune",NA,NA
+257,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",257,"Krala","Khum","Commune",NA,NA
+258,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",258,"Ou Svay","Khum","Commune",NA,NA
+259,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",259,"Ro'ang","Khum","Commune",NA,NA
+260,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",260,"Rumchek","Khum","Commune",NA,NA
+261,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",261,"Srak","Khum","Commune",NA,NA
+262,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",262,"Trean","Khum","Commune",NA,NA
+263,40,"KHM","Cambodia",4,"Kâmpóng Cham",31,"Kampong Siem",263,"Vihear Thum","Khum","Commune",NA,NA
+264,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",264,"Angkor Ban","Khum","Commune",NA,NA
+265,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",265,"Kang Ta Noeng","Khum","Commune",NA,NA
+266,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",266,"Khchau","Khum","Commune",NA,NA
+267,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",267,"Peam Chi Kang","Khum","Commune",NA,NA
+268,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",268,"Preaek Koy","Khum","Commune",NA,NA
+269,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",269,"Preaek Krabau","Khum","Commune",NA,NA
+270,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",270,"Reay Pay","Khum","Commune",NA,NA
+271,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",271,"Roka ar","Khum","Commune",NA,NA
+272,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",272,"Roka Koy","Khum","Commune",NA,NA
+273,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",273,"Sdau","Khum","Commune",NA,NA
+274,40,"KHM","Cambodia",4,"Kâmpóng Cham",32,"Kang Meas",274,"Sour Kong","Khum","Commune",NA,NA
+275,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",275,"Kampong Reab","Khum","Commune",NA,NA
+276,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",276,"Kaoh Soutin","Khum","Commune",NA,NA
+277,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",277,"Lve","Khum","Commune",NA,NA
+278,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",278,"Moha Khnhoung","Khum","Commune",NA,NA
+279,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",279,"Moha Leaph","Khum","Commune",NA,NA
+280,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",280,"Peam Prathnuoh","Khum","Commune",NA,NA
+281,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",281,"Pongro","Khum","Commune",NA,NA
+282,40,"KHM","Cambodia",4,"Kâmpóng Cham",33,"Kaoh Soutin",282,"Preaek Ta Nong","Khum","Commune",NA,NA
+283,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",283,"Baray","Khum","Commune",NA,NA
+284,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",284,"Boeng Nay","Khum","Commune",NA,NA
+285,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",285,"Chrey Vien","Khum","Commune",NA,NA
+286,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",286,"Khvet Thum","Khum","Commune",NA,NA
+287,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",287,"Kor","Khum","Commune",NA,NA
+288,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",288,"Krouch","Khum","Commune",NA,NA
+289,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",289,"Lvea","Khum","Commune",NA,NA
+290,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",290,"Mien","Khum","Commune",NA,NA
+291,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",291,"Prey Chhor","Khum","Commune",NA,NA
+292,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",292,"Samraong","Khum","Commune",NA,NA
+293,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",293,"Sour Saen","Khum","Commune",NA,NA
+294,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",294,"Srangae","Khum","Commune",NA,NA
+295,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",295,"Thma Pun","Khum","Commune",NA,NA
+296,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",296,"Tong Rong","Khum","Commune",NA,NA
+297,40,"KHM","Cambodia",4,"Kâmpóng Cham",34,"Prey Chhor",297,"Trapeang Preah","Khum","Commune",NA,NA
+298,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",298,"Baray","Khum","Commune",NA,NA
+299,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",299,"Chi Bal","Khum","Commune",NA,NA
+300,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",300,"Kaoh Andaet","Khum","Commune",NA,NA
+301,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",301,"Khnar Sa","Khum","Commune",NA,NA
+302,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",302,"Mean Chey","Khum","Commune",NA,NA
+303,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",303,"Pram Yam","Khum","Commune",NA,NA
+304,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",304,"Preaek Dambouk","Khum","Commune",NA,NA
+305,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",305,"Preaek Pou","Khum","Commune",NA,NA
+306,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",306,"Preaek Rumdeng","Khum","Commune",NA,NA
+307,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",307,"Pteah Kandal","Khum","Commune",NA,NA
+308,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",308,"Ruessei Srok","Khum","Commune",NA,NA
+309,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",309,"Svay Pou","Khum","Commune",NA,NA
+310,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",310,"Svay Sach Phnum","Khum","Commune",NA,NA
+311,40,"KHM","Cambodia",4,"Kâmpóng Cham",35,"Srei Santhor",311,"Tong Tralach","Khum","Commune",NA,NA
+312,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",312,"areaks Tnaot","Khum","Commune",NA,NA
+313,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",313,"Dang Kdar","Khum","Commune",NA,NA
+314,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",314,"Khpob Ta Nguon","Khum","Commune",NA,NA
+315,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",315,"Me Sar Chrey","Khum","Commune",NA,NA
+316,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",316,"Ou Mlu","Khum","Commune",NA,NA
+317,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",317,"Peam Kaoh Sna","Khum","Commune",NA,NA
+318,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",318,"Preaek Bak","Khum","Commune",NA,NA
+319,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",319,"Preaek Kak","Khum","Commune",NA,NA
+320,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",320,"Preah Andoung","Khum","Commune",NA,NA
+321,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",321,"Soupheas","Khum","Commune",NA,NA
+322,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",322,"Tuol Preah Khleang","Khum","Commune",NA,NA
+323,40,"KHM","Cambodia",4,"Kâmpóng Cham",36,"Stueng Trang",323,"Tuol Sambuor","Khum","Commune",NA,NA
+324,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",324,"Anhchanh Rung","Khum","Commune",NA,NA
+325,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",325,"Chak","Khum","Commune",NA,NA
+326,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",326,"Chhnok Tru","Khum","Commune",NA,NA
+327,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",327,"Kampong Preah Kokir","Khum","Commune",NA,NA
+328,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",328,"Khon Rang","Khum","Commune",NA,NA
+329,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",329,"Melum","Khum","Commune",NA,NA
+330,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",330,"n.a. ( 493)","Khum","Commune",NA,NA
+331,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",331,"Pech Changvar","Khum","Commune",NA,NA
+332,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",332,"Phsar","Khum","Commune",NA,NA
+333,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",333,"Ponley","Khum","Commune",NA,NA
+334,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",334,"Popel","Khum","Commune",NA,NA
+335,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",37,"Baribour",335,"Trapeang Chan","Khum","Commune",NA,NA
+336,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",38,"Chol Kiri",336,"Chol Sar","Khum","Commune",NA,NA
+337,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",38,"Chol Kiri",337,"Kampong Os","Khum","Commune",NA,NA
+338,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",38,"Chol Kiri",338,"Kaoh","Khum","Commune",NA,NA
+339,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",38,"Chol Kiri",339,"Peam Chhkaok","Khum","Commune",NA,NA
+340,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",38,"Chol Kiri",340,"Prey Kri","Khum","Commune",NA,NA
+341,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",39,"Kampong Chhnang",341,"Kampong Chhnang","Khum","Commune",NA,NA
+342,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",39,"Kampong Chhnang",342,"Khsam","Khum","Commune",NA,NA
+343,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",39,"Kampong Chhnang",343,"Ph'er","Khum","Commune",NA,NA
+344,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",39,"Kampong Chhnang",344,"Phsar Chhnang","Khum","Commune",NA,NA
+345,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",345,"Chranouk","Khum","Commune",NA,NA
+346,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",346,"Dar","Khum","Commune",NA,NA
+347,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",347,"Kampong hau","Khum","Commune",NA,NA
+348,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",348,"Phlov Tuk","Khum","Commune",NA,NA
+349,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",349,"Pou","Khum","Commune",NA,NA
+350,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",350,"Pralay Meas","Khum","Commune",NA,NA
+351,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",351,"Samraong Saen","Khum","Commune",NA,NA
+352,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",352,"Svay Rumpear","Khum","Commune",NA,NA
+353,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",40,"Kampong Leaeng",353,"Trangel","Khum","Commune",NA,NA
+354,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",354,"Ampil Tuek","Khum","Commune",NA,NA
+355,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",355,"Chhuk Sa","Khum","Commune",NA,NA
+356,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",356,"Chres","Khum","Commune",NA,NA
+357,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",357,"Kampong Tralach","Khum","Commune",NA,NA
+358,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",358,"Longveaek","Khum","Commune",NA,NA
+359,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",359,"Ou Ruessei","Khum","Commune",NA,NA
+360,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",360,"Peani","Khum","Commune",NA,NA
+361,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",361,"Saeb","Khum","Commune",NA,NA
+362,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",362,"Ta Ches","Khum","Commune",NA,NA
+363,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",41,"Kampong Tralach",363,"Thma Edth","Khum","Commune",NA,NA
+364,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",364,"Andoung Snay","Khum","Commune",NA,NA
+365,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",365,"Banteay Preal","Khum","Commune",NA,NA
+366,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",366,"Cheung Kreav","Khum","Commune",NA,NA
+367,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",367,"Chrey Bak","Khum","Commune",NA,NA
+368,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",368,"Kouk Banteay","Khum","Commune",NA,NA
+369,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",369,"Krang Leav","Khum","Commune",NA,NA
+370,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",370,"Pongro","Khum","Commune",NA,NA
+371,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",371,"Prasneb","Khum","Commune",NA,NA
+372,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",372,"Prey Mul","Khum","Commune",NA,NA
+373,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",373,"Rolea B'ier","Khum","Commune",NA,NA
+374,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",374,"Srae Thmei","Khum","Commune",NA,NA
+375,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",375,"Svay Chrum","Khum","Commune",NA,NA
+376,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",42,"Rolea B'ier",376,"Tuek Hout","Khum","Commune",NA,NA
+377,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",377,"Chhean Laeung","Khum","Commune",NA,NA
+378,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",378,"Khnar Chhmar","Khum","Commune",NA,NA
+379,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",379,"Krang Lvea","Khum","Commune",NA,NA
+380,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",380,"Peam","Khum","Commune",NA,NA
+381,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",381,"Sedthei","Khum","Commune",NA,NA
+382,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",382,"Svay Chuk","Khum","Commune",NA,NA
+383,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",383,"Svay","Khum","Commune",NA,NA
+384,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",384,"Tbaeng Khpos","Khum","Commune",NA,NA
+385,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",43,"Sameakki Mean Chey",385,"Thlok Vien","Khum","Commune",NA,NA
+386,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",386,"Akphivoadth","Khum","Commune",NA,NA
+387,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",387,"Chaong Maong","Khum","Commune",NA,NA
+388,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",388,"Chieb","Khum","Commune",NA,NA
+389,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",389,"Kbal Tuek","Khum","Commune",NA,NA
+390,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",390,"Khlong Popok","Khum","Commune",NA,NA
+391,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",391,"Krang Skear","Khum","Commune",NA,NA
+392,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",392,"Tang Krasang","Khum","Commune",NA,NA
+393,40,"KHM","Cambodia",5,"Kâmpóng Chhnang",44,"Tuek Phos",393,"Tuol Khpos","Khum","Commune",NA,NA
+394,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",394,"Aoral","Khum","Commune",NA,NA
+395,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",395,"Chh'en","Khum","Commune",NA,NA
+396,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",396,"Haong Samnam","Khum","Commune",NA,NA
+397,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",397,"Reaksmei Sameakki","Khum","Commune",NA,NA
+398,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",398,"Roleak Kang Cheung","Khum","Commune",NA,NA
+399,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",399,"Sangkae Satob","Khum","Commune",NA,NA
+400,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",400,"Ta Sal","Khum","Commune",NA,NA
+401,40,"KHM","Cambodia",6,"Kâmpóng Spœ",45,"Aoral",401,"Trapeang Chour","Khum","Commune",NA,NA
+402,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",402,"Basedth","Khum","Commune",NA,NA
+403,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",403,"Kak","Khum","Commune",NA,NA
+404,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",404,"Kat Phluk","Khum","Commune",NA,NA
+405,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",405,"Nitean","Khum","Commune",NA,NA
+406,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",406,"Pheakdei","Khum","Commune",NA,NA
+407,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",407,"Pheari Mean Chey","Khum","Commune",NA,NA
+408,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",408,"Phong","Khum","Commune",NA,NA
+409,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",409,"Pou Angkrang","Khum","Commune",NA,NA
+410,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",410,"Pou Chamraeun","Khum","Commune",NA,NA
+411,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",411,"Pou Mreal","Khum","Commune",NA,NA
+412,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",412,"Preah Khae","Khum","Commune",NA,NA
+413,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",413,"Svay Chacheb","Khum","Commune",NA,NA
+414,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",414,"Svay Rumpea","Khum","Commune",NA,NA
+415,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",415,"Tuol Ampil","Khum","Commune",NA,NA
+416,40,"KHM","Cambodia",6,"Kâmpóng Spœ",46,"Basedth",416,"Tuol Sala","Khum","Commune",NA,NA
+417,40,"KHM","Cambodia",6,"Kâmpóng Spœ",47,"Chbar Mon",417,"Chbar Mon","Khum","Commune",NA,NA
+418,40,"KHM","Cambodia",6,"Kâmpóng Spœ",47,"Chbar Mon",418,"Kandaol Dom","Khum","Commune",NA,NA
+419,40,"KHM","Cambodia",6,"Kâmpóng Spœ",47,"Chbar Mon",419,"Roka Thum","Khum","Commune",NA,NA
+420,40,"KHM","Cambodia",6,"Kâmpóng Spœ",47,"Chbar Mon",420,"Sopoar Tep","Khum","Commune",NA,NA
+421,40,"KHM","Cambodia",6,"Kâmpóng Spœ",47,"Chbar Mon",421,"Svay Kravan","Khum","Commune",NA,NA
+422,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",422,"Angk Popel","Khum","Commune",NA,NA
+423,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",423,"Chongruk","Khum","Commune",NA,NA
+424,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",424,"Moha Ruessei","Khum","Commune",NA,NA
+425,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",425,"Pechr Muni","Khum","Commune",NA,NA
+426,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",426,"Preah Nipean","Khum","Commune",NA,NA
+427,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",427,"Prey Nheat","Khum","Commune",NA,NA
+428,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",428,"Prey Vihear","Khum","Commune",NA,NA
+429,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",429,"Roka Kaoh","Khum","Commune",NA,NA
+430,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",430,"Sdok","Khum","Commune",NA,NA
+431,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",431,"Snam Krapeu","Khum","Commune",NA,NA
+432,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",432,"Srang","Khum","Commune",NA,NA
+433,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",433,"Tuek L'ak","Khum","Commune",NA,NA
+434,40,"KHM","Cambodia",6,"Kâmpóng Spœ",48,"Kong Pisei",434,"Veal","Khum","Commune",NA,NA
+435,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",435,"Chant Saen","Khum","Commune",NA,NA
+436,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",436,"Cheung Roas","Khum","Commune",NA,NA
+437,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",437,"Chumpu Proeks","Khum","Commune",NA,NA
+438,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",438,"Damnak Reang","Khum","Commune",NA,NA
+439,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",439,"Khsem Khsan","Khum","Commune",NA,NA
+440,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",440,"Krang Chek","Khum","Commune",NA,NA
+441,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",441,"Mean Chey","Khum","Commune",NA,NA
+442,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",442,"Peang Lvea","Khum","Commune",NA,NA
+443,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",443,"Phnum Touch","Khum","Commune",NA,NA
+444,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",444,"Preah Srae","Khum","Commune",NA,NA
+445,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",445,"Prey Krasang","Khum","Commune",NA,NA
+446,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",446,"Trach Tong","Khum","Commune",NA,NA
+447,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",447,"Veal Pung","Khum","Commune",NA,NA
+448,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",448,"Veang Chas","Khum","Commune",NA,NA
+449,40,"KHM","Cambodia",6,"Kâmpóng Spœ",49,"Odongk",449,"Yutth Sameakki","Khum","Commune",NA,NA
+450,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",450,"Chambak","Khum","Commune",NA,NA
+451,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",451,"Choam Sangkae","Khum","Commune",NA,NA
+452,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",452,"Dambouk Rung","Khum","Commune",NA,NA
+453,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",453,"Kiri Voan","Khum","Commune",NA,NA
+454,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",454,"Krang Dei Vay","Khum","Commune",NA,NA
+455,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",455,"Moha Sang","Khum","Commune",NA,NA
+456,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",456,"Ou","Khum","Commune",NA,NA
+457,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",457,"Prey Kmeng","Khum","Commune",NA,NA
+458,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",458,"Prey Rumduol","Khum","Commune",NA,NA
+459,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",459,"Tang Samraong","Khum","Commune",NA,NA
+460,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",460,"Tang Sya","Khum","Commune",NA,NA
+461,40,"KHM","Cambodia",6,"Kâmpóng Spœ",50,"Phnum Sruoch",461,"Traeng Trayueng","Khum","Commune",NA,NA
+462,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",462,"Kahaeng","Khum","Commune",NA,NA
+463,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",463,"Khtum Krang","Khum","Commune",NA,NA
+464,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",464,"Krang Ampil","Khum","Commune",NA,NA
+465,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",465,"Pneay","Khum","Commune",NA,NA
+466,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",466,"Roleang Chak","Khum","Commune",NA,NA
+467,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",467,"Roleang Kreul","Khum","Commune",NA,NA
+468,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",468,"Saen Dei","Khum","Commune",NA,NA
+469,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",469,"Sambour","Khum","Commune",NA,NA
+470,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",470,"Samraong Tong","Khum","Commune",NA,NA
+471,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",471,"Skuh","Khum","Commune",NA,NA
+472,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",472,"Tang Krouch","Khum","Commune",NA,NA
+473,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",473,"Thommoda Ar","Khum","Commune",NA,NA
+474,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",474,"Trapeang Kong","Khum","Commune",NA,NA
+475,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",475,"Tumpoar Meas","Khum","Commune",NA,NA
+476,40,"KHM","Cambodia",6,"Kâmpóng Spœ",51,"Samraong Tong",476,"Voa Sa","Khum","Commune",NA,NA
+477,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong",477,"Amleang","Khum","Commune",NA,NA
+478,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong",478,"Monourom","Khum","Commune",NA,NA
+479,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong",479,"Prambei Mom","Khum","Commune",NA,NA
+480,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong",480,"Rung Roeang","Khum","Commune",NA,NA
+481,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong",481,"Toap Mean","Khum","Commune",NA,NA
+482,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong",482,"Veal Pon","Khum","Commune",NA,NA
+483,40,"KHM","Cambodia",6,"Kâmpóng Spœ",52,"Thpong",483,"Yea Angk","Khum","Commune",NA,NA
+484,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",484,"Andoung Pou","Khum","Commune",NA,NA
+485,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",485,"Bak Sna","Khum","Commune",NA,NA
+486,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",486,"Ballangk","Khum","Commune",NA,NA
+487,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",487,"Baray","Khum","Commune",NA,NA
+488,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",488,"Boeng","Khum","Commune",NA,NA
+489,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",489,"Chaeung Daeung","Khum","Commune",NA,NA
+490,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",490,"Chhuk Khsach","Khum","Commune",NA,NA
+491,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",491,"Chong Doung","Khum","Commune",NA,NA
+492,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",492,"Chranieng","Khum","Commune",NA,NA
+493,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",493,"Chrolong","Khum","Commune",NA,NA
+494,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",494,"Kokir Thum","Khum","Commune",NA,NA
+495,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",495,"Krava","Khum","Commune",NA,NA
+496,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",496,"Pongro","Khum","Commune",NA,NA
+497,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",497,"Sou Young","Khum","Commune",NA,NA
+498,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",498,"Sralau","Khum","Commune",NA,NA
+499,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",499,"Svay Phleung","Khum","Commune",NA,NA
+500,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",500,"Tnaot Chum","Khum","Commune",NA,NA
+501,40,"KHM","Cambodia",7,"Kâmpóng Thum",53,"Baray",501,"Treal","Khum","Commune",NA,NA
+502,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",502,"Chey","Khum","Commune",NA,NA
+503,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",503,"Damrei Slab","Khum","Commune",NA,NA
+504,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",504,"Kampong Kou","Khum","Commune",NA,NA
+505,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",505,"Kampong Svay","Khum","Commune",NA,NA
+506,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",506,"n.a. ( 467)","Khum","Commune",NA,NA
+507,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",507,"Ni Pechr","Khum","Commune",NA,NA
+508,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",508,"Phat Sanday","Khum","Commune",NA,NA
+509,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",509,"San Kor","Khum","Commune",NA,NA
+510,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",510,"Tbaeng","Khum","Commune",NA,NA
+511,40,"KHM","Cambodia",7,"Kâmpóng Thum",54,"Kampong Svay",511,"Trapeang Ruessei","Khum","Commune",NA,NA
+512,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk",512,"Doung","Khum","Commune",NA,NA
+513,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk",513,"Kraya","Khum","Commune",NA,NA
+514,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk",514,"Phan Nheum","Khum","Commune",NA,NA
+515,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk",515,"Sa Kream","Khum","Commune",NA,NA
+516,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk",516,"Sala Visai","Khum","Commune",NA,NA
+517,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk",517,"Sameakki","Khum","Commune",NA,NA
+518,40,"KHM","Cambodia",7,"Kâmpóng Thum",55,"Prasat Balangk",518,"Tuol Kreul","Khum","Commune",NA,NA
+519,40,"KHM","Cambodia",7,"Kâmpóng Thum",56,"Prasat Sambour",519,"Chhuk","Khum","Commune",NA,NA
+520,40,"KHM","Cambodia",7,"Kâmpóng Thum",56,"Prasat Sambour",520,"Koul","Khum","Commune",NA,NA
+521,40,"KHM","Cambodia",7,"Kâmpóng Thum",56,"Prasat Sambour",521,"Sambour","Khum","Commune",NA,NA
+522,40,"KHM","Cambodia",7,"Kâmpóng Thum",56,"Prasat Sambour",522,"Sraeung","Khum","Commune",NA,NA
+523,40,"KHM","Cambodia",7,"Kâmpóng Thum",56,"Prasat Sambour",523,"Tang Krasau","Khum","Commune",NA,NA
+524,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",524,"Chheu Teal","Khum","Commune",NA,NA
+525,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",525,"Dang Kambet","Khum","Commune",NA,NA
+526,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",526,"Klaeng","Khum","Commune",NA,NA
+527,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",527,"Mean Chey","Khum","Commune",NA,NA
+528,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",528,"Mean Ritth","Khum","Commune",NA,NA
+529,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",529,"Ngan","Khum","Commune",NA,NA
+530,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",530,"Sandan","Khum","Commune",NA,NA
+531,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",531,"Sochet","Khum","Commune",NA,NA
+532,40,"KHM","Cambodia",7,"Kâmpóng Thum",57,"Sandan",532,"Tum Ring","Khum","Commune",NA,NA
+533,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",533,"Boeng Lvea","Khum","Commune",NA,NA
+534,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",534,"Chroab","Khum","Commune",NA,NA
+535,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",535,"Kakaoh","Khum","Commune",NA,NA
+536,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",536,"Kampong Thma","Khum","Commune",NA,NA
+537,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",537,"Kraya","Khum","Commune",NA,NA
+538,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",538,"Pnov","Khum","Commune",NA,NA
+539,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",539,"Prasat","Khum","Commune",NA,NA
+540,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",540,"Tang Krasang","Khum","Commune",NA,NA
+541,40,"KHM","Cambodia",7,"Kâmpóng Thum",58,"Santuk",541,"Ti Pou","Khum","Commune",NA,NA
+542,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",542,"Banteay Stoung","Khum","Commune",NA,NA
+543,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",543,"Chamnar Kraom","Khum","Commune",NA,NA
+544,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",544,"Chamnar Leu","Khum","Commune",NA,NA
+545,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",545,"Kampong Chen Cheung","Khum","Commune",NA,NA
+546,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",546,"Kampong Chen Tboung","Khum","Commune",NA,NA
+547,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",547,"Msar Krang","Khum","Commune",NA,NA
+548,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",548,"n.a. ( 450)","Khum","Commune",NA,NA
+549,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",549,"Peam Bang","Khum","Commune",NA,NA
+550,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",550,"Popok","Khum","Commune",NA,NA
+551,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",551,"Pralay","Khum","Commune",NA,NA
+552,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",552,"Preah Damrei","Khum","Commune",NA,NA
+553,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",553,"Rung Roeang","Khum","Commune",NA,NA
+554,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",554,"Samprouch","Khum","Commune",NA,NA
+555,40,"KHM","Cambodia",7,"Kâmpóng Thum",59,"Stoung",555,"Trea","Khum","Commune",NA,NA
+556,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",556,"Achar Leak","Khum","Commune",NA,NA
+557,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",557,"Damrei Choan Khla","Khum","Commune",NA,NA
+558,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",558,"Kampong Krabau","Khum","Commune",NA,NA
+559,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",559,"Kampong Roteh","Khum","Commune",NA,NA
+560,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",560,"Kampong Thum","Khum","Commune",NA,NA
+561,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",561,"Kdei Doung","Khum","Commune",NA,NA
+562,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",562,"Ou Kanthor","Khum","Commune",NA,NA
+563,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",563,"Prey Kuy","Khum","Commune",NA,NA
+564,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",564,"Prey Ta Hu","Khum","Commune",NA,NA
+565,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",565,"Srayov","Khum","Commune",NA,NA
+566,40,"KHM","Cambodia",7,"Kâmpóng Thum",60,"Stueng Saen",566,"Tboung Krapeu","Khum","Commune",NA,NA
+567,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",567,"Baek Chan","Khum","Commune",NA,NA
+568,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",568,"Boeng Thum","Khum","Commune",NA,NA
+569,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",569,"Chhak Chheu Neang","Khum","Commune",NA,NA
+570,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",570,"Damnak Ampil","Khum","Commune",NA,NA
+571,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",571,"Kamboul","Khum","Commune",NA,NA
+572,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",572,"Kantaok","Khum","Commune",NA,NA
+573,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",573,"Krang Mkak","Khum","Commune",NA,NA
+574,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",574,"Lumhach","Khum","Commune",NA,NA
+575,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",575,"Mkak","Khum","Commune",NA,NA
+576,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",576,"Ovlaok","Khum","Commune",NA,NA
+577,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",577,"Peuk","Khum","Commune",NA,NA
+578,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",578,"Ponsang","Khum","Commune",NA,NA
+579,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",579,"Prey Puok","Khum","Commune",NA,NA
+580,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",580,"Samraong Leu","Khum","Commune",NA,NA
+581,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",581,"Snao","Khum","Commune",NA,NA
+582,40,"KHM","Cambodia",8,"Kândal",61,"Angk Snuol",582,"Tuol Prech","Khum","Commune",NA,NA
+583,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",583,"Ampov Prey","Khum","Commune",NA,NA
+584,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",584,"Anlong Romiet","Khum","Commune",NA,NA
+585,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",585,"Barku","Khum","Commune",NA,NA
+586,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",586,"Boeng Khyang","Khum","Commune",NA,NA
+587,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",587,"Cheung Kaeub","Khum","Commune",NA,NA
+588,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",588,"Daeum Rues","Khum","Commune",NA,NA
+589,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",589,"Kandaok","Khum","Commune",NA,NA
+590,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",590,"Kong Noy","Khum","Commune",NA,NA
+591,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",591,"Kouk Trab","Khum","Commune",NA,NA
+592,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",592,"Preaek Kampis","Khum","Commune",NA,NA
+593,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",593,"Preaek Roka","Khum","Commune",NA,NA
+594,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",594,"Preaek Slaeng","Khum","Commune",NA,NA
+595,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",595,"Preah Putth","Khum","Commune",NA,NA
+596,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",596,"Roka","Khum","Commune",NA,NA
+597,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",597,"Roleang Kaen","Khum","Commune",NA,NA
+598,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",598,"Roluos","Khum","Commune",NA,NA
+599,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",599,"Siem Reab","Khum","Commune",NA,NA
+600,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",600,"Spean Thma","Khum","Commune",NA,NA
+601,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",601,"Tbaeng","Khum","Commune",NA,NA
+602,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",602,"Thmei","Khum","Commune",NA,NA
+603,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",603,"Tien","Khum","Commune",NA,NA
+604,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",604,"Trapeang Veaeng","Khum","Commune",NA,NA
+605,40,"KHM","Cambodia",8,"Kândal",62,"Kandal Stueng",605,"Trea","Khum","Commune",NA,NA
+606,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",606,"Chheu Khmau","Khum","Commune",NA,NA
+607,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",607,"Chrouy Ta Kaev","Khum","Commune",NA,NA
+608,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",608,"Kampong Kong","Khum","Commune",NA,NA
+609,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",609,"Kaoh Thum Ka","Khum","Commune",NA,NA
+610,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",610,"Kaoh Thum Kha","Khum","Commune",NA,NA
+611,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",611,"Leuk Daek","Khum","Commune",NA,NA
+612,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",612,"Pouthi Ban","Khum","Commune",NA,NA
+613,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",613,"Preaek Chrey","Khum","Commune",NA,NA
+614,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",614,"Preaek Sdei","Khum","Commune",NA,NA
+615,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",615,"Preaek Thmei","Khum","Commune",NA,NA
+616,40,"KHM","Cambodia",8,"Kândal",63,"Kaoh Thum",616,"Sampov Lun","Khum","Commune",NA,NA
+617,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",617,"Bak Dav","Khum","Commune",NA,NA
+618,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",618,"Chey Thum","Khum","Commune",NA,NA
+619,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",619,"Kampong Chamlang","Khum","Commune",NA,NA
+620,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",620,"Kaoh Chouram","Khum","Commune",NA,NA
+621,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",621,"Kaoh Oknha Tei","Khum","Commune",NA,NA
+622,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",622,"Preaek Ampil","Khum","Commune",NA,NA
+623,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",623,"Preaek Luong","Khum","Commune",NA,NA
+624,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",624,"Preaek Ta Kov","Khum","Commune",NA,NA
+625,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",625,"Preaek Ta Meak","Khum","Commune",NA,NA
+626,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",626,"Preah Prasab","Khum","Commune",NA,NA
+627,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",627,"Puk Ruessei","Khum","Commune",NA,NA
+628,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",628,"Roka Chonlueng","Khum","Commune",NA,NA
+629,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",629,"Sanlung","Khum","Commune",NA,NA
+630,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",630,"Sithor","Khum","Commune",NA,NA
+631,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",631,"Svay Chrum","Khum","Commune",NA,NA
+632,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",632,"Svay Romiet","Khum","Commune",NA,NA
+633,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",633,"Ta Aek","Khum","Commune",NA,NA
+634,40,"KHM","Cambodia",8,"Kândal",64,"Khsach Kandal",634,"Vihear Suork","Khum","Commune",NA,NA
+635,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",635,"Banteay Daek","Khum","Commune",NA,NA
+636,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",636,"Chheu Teal","Khum","Commune",NA,NA
+637,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",637,"Dei Edth","Khum","Commune",NA,NA
+638,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",638,"Kampong Svay","Khum","Commune",NA,NA
+639,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",639,"Kbal Kaoh","Khum","Commune",NA,NA
+640,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",640,"Kokir Thum","Khum","Commune",NA,NA
+641,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",641,"Kokir","Khum","Commune",NA,NA
+642,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",642,"Phum Thum","Khum","Commune",NA,NA
+643,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",643,"Preaek Aeng","Khum","Commune",NA,NA
+644,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",644,"Preaek Thmei","Khum","Commune",NA,NA
+645,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",645,"Samraong Thum","Khum","Commune",NA,NA
+646,40,"KHM","Cambodia",8,"Kândal",65,"Kien Svay",646,"Veal Sbov","Khum","Commune",NA,NA
+647,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek",647,"K'am Samnar","Khum","Commune",NA,NA
+648,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek",648,"Kampong Phnum","Khum","Commune",NA,NA
+649,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek",649,"Khpob ateav","Khum","Commune",NA,NA
+650,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek",650,"Peam Reang","Khum","Commune",NA,NA
+651,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek",651,"Preaek Dach","Khum","Commune",NA,NA
+652,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek",652,"Preaek Tonloab","Khum","Commune",NA,NA
+653,40,"KHM","Cambodia",8,"Kândal",66,"Leuk Daek",653,"Sandar","Khum","Commune",NA,NA
+654,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",654,"Akreiy Ksatr","Khum","Commune",NA,NA
+655,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",655,"Barong","Khum","Commune",NA,NA
+656,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",656,"Boeng Krum","Khum","Commune",NA,NA
+657,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",657,"Kaoh Kaev","Khum","Commune",NA,NA
+658,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",658,"Kaoh Reah","Khum","Commune",NA,NA
+659,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",659,"Lvea Sa","Khum","Commune",NA,NA
+660,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",660,"Peam Oknha Ong","Khum","Commune",NA,NA
+661,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",661,"Phum Thum","Khum","Commune",NA,NA
+662,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",662,"Preaek Kmeng","Khum","Commune",NA,NA
+663,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",663,"Preaek Rey","Khum","Commune",NA,NA
+664,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",664,"Preaek Ruessei","Khum","Commune",NA,NA
+665,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",665,"Sambuor","Khum","Commune",NA,NA
+666,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",666,"Sarikakaev","Khum","Commune",NA,NA
+667,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",667,"Thma Kor","Khum","Commune",NA,NA
+668,40,"KHM","Cambodia",8,"Kândal",67,"Lvea Aem",668,"Tuek Khleang","Khum","Commune",NA,NA
+669,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",669,"Bak Khaeng","Khum","Commune",NA,NA
+670,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",670,"Kaoh Dach","Khum","Commune",NA,NA
+671,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",671,"Preaek Anhchanh","Khum","Commune",NA,NA
+672,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",672,"Preaek Dambang","Khum","Commune",NA,NA
+673,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",673,"Roka Kaong Muoy","Khum","Commune",NA,NA
+674,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",674,"Roka Kaong Pir","Khum","Commune",NA,NA
+675,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",675,"Ruessei Chrouy","Khum","Commune",NA,NA
+676,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",676,"Sambuor Meas","Khum","Commune",NA,NA
+677,40,"KHM","Cambodia",8,"Kândal",68,"Mukh Kampul",677,"Svay Ampear","Khum","Commune",NA,NA
+678,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",678,"Chhveang","Khum","Commune",NA,NA
+679,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",679,"Chrey Loas","Khum","Commune",NA,NA
+680,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",680,"Kampong Luong","Khum","Commune",NA,NA
+681,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",681,"Kampong Os","Khum","Commune",NA,NA
+682,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",682,"Kaoh Chen","Khum","Commune",NA,NA
+683,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",683,"Phnum Bat","Khum","Commune",NA,NA
+684,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",684,"Phsar Daek","Khum","Commune",NA,NA
+685,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",685,"Ponhea Lueu","Khum","Commune",NA,NA
+686,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",686,"Ponhea Pon","Khum","Commune",NA,NA
+687,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",687,"Preaek Pnov","Khum","Commune",NA,NA
+688,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",688,"Preaek Ta Teaen","Khum","Commune",NA,NA
+689,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",689,"Samraong","Khum","Commune",NA,NA
+690,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",690,"Tumnob Thum","Khum","Commune",NA,NA
+691,40,"KHM","Cambodia",8,"Kândal",69,"Ponhea Lueu",691,"Vihear Luong","Khum","Commune",NA,NA
+692,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",692,"Kaoh Anlong Chen","Khum","Commune",NA,NA
+693,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",693,"Kaoh Khael","Khum","Commune",NA,NA
+694,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",694,"Kaoh Khsach Tonlea","Khum","Commune",NA,NA
+695,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",695,"Khpob","Khum","Commune",NA,NA
+696,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",696,"Krang Yov","Khum","Commune",NA,NA
+697,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",697,"Prasat","Khum","Commune",NA,NA
+698,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",698,"Preaek Ambel","Khum","Commune",NA,NA
+699,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",699,"Preaek Koy","Khum","Commune",NA,NA
+700,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",700,"Roka Khpos","Khum","Commune",NA,NA
+701,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",701,"S'ang Phnum","Khum","Commune",NA,NA
+702,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",702,"Setbou","Khum","Commune",NA,NA
+703,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",703,"Svay Prateal","Khum","Commune",NA,NA
+704,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",704,"Svay Rolum","Khum","Commune",NA,NA
+705,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",705,"Ta Lon","Khum","Commune",NA,NA
+706,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",706,"Traeuy Sla","Khum","Commune",NA,NA
+707,40,"KHM","Cambodia",8,"Kândal",70,"S'ang",707,"Tuek Vil","Khum","Commune",NA,NA
+708,40,"KHM","Cambodia",8,"Kândal",71,"Ta Khmau",708,"Daeum Mien","Khum","Commune",NA,NA
+709,40,"KHM","Cambodia",8,"Kândal",71,"Ta Khmau",709,"Kampong Samnanh","Khum","Commune",NA,NA
+710,40,"KHM","Cambodia",8,"Kândal",71,"Ta Khmau",710,"Preaek Hour","Khum","Commune",NA,NA
+711,40,"KHM","Cambodia",8,"Kândal",71,"Ta Khmau",711,"Preaek Ruessei","Khum","Commune",NA,NA
+712,40,"KHM","Cambodia",8,"Kândal",71,"Ta Khmau",712,"Ta Kdol","Khum","Commune",NA,NA
+713,40,"KHM","Cambodia",8,"Kândal",71,"Ta Khmau",713,"Ta Khmau","Khum","Commune",NA,NA
+714,40,"KHM","Cambodia",9,"Kaôh Kong",72,"Botum Sakor",714,"Andoung Tuek","Khum","Commune",NA,NA
+715,40,"KHM","Cambodia",9,"Kaôh Kong",72,"Botum Sakor",715,"Chi Phat","Khum","Commune",NA,NA
+716,40,"KHM","Cambodia",9,"Kaôh Kong",72,"Botum Sakor",716,"Kandaol","Khum","Commune",NA,NA
+717,40,"KHM","Cambodia",9,"Kaôh Kong",72,"Botum Sakor",717,"n.a. ( 1357)","Khum","Commune",NA,NA
+718,40,"KHM","Cambodia",9,"Kaôh Kong",72,"Botum Sakor",718,"Ta Nuon","Khum","Commune",NA,NA
+719,40,"KHM","Cambodia",9,"Kaôh Kong",73,"Kampong Seila",719,"Chamkar Luong","Khum","Commune",NA,NA
+720,40,"KHM","Cambodia",9,"Kaôh Kong",73,"Kampong Seila",720,"Kampong Seila","Khum","Commune",NA,NA
+721,40,"KHM","Cambodia",9,"Kaôh Kong",73,"Kampong Seila",721,"n.a. ( 1178)","Khum","Commune",NA,NA
+722,40,"KHM","Cambodia",9,"Kaôh Kong",73,"Kampong Seila",722,"Ou Bak Roteh","Khum","Commune",NA,NA
+723,40,"KHM","Cambodia",9,"Kaôh Kong",73,"Kampong Seila",723,"Stueng Chhay","Khum","Commune",NA,NA
+724,40,"KHM","Cambodia",9,"Kaôh Kong",74,"Kaoh Kong",724,"Chrouy Pras","Khum","Commune",NA,NA
+725,40,"KHM","Cambodia",9,"Kaôh Kong",74,"Kaoh Kong",725,"Kaoh Kapi","Khum","Commune",NA,NA
+726,40,"KHM","Cambodia",9,"Kaôh Kong",74,"Kaoh Kong",726,"Ta Tai Kraom","Khum","Commune",NA,NA
+727,40,"KHM","Cambodia",9,"Kaôh Kong",74,"Kaoh Kong",727,"Trapeang Rung","Khum","Commune",NA,NA
+728,40,"KHM","Cambodia",9,"Kaôh Kong",75,"Kiri Sakor",728,"Kaoh Sdach","Khum","Commune",NA,NA
+729,40,"KHM","Cambodia",9,"Kaôh Kong",75,"Kiri Sakor",729,"Phnhi Meas","Khum","Commune",NA,NA
+730,40,"KHM","Cambodia",9,"Kaôh Kong",75,"Kiri Sakor",730,"Preaek Khsach","Khum","Commune",NA,NA
+731,40,"KHM","Cambodia",9,"Kaôh Kong",76,"Mondol Seima",731,"Bak Khlang","Khum","Commune",NA,NA
+732,40,"KHM","Cambodia",9,"Kaôh Kong",76,"Mondol Seima",732,"Peam Krasaob","Khum","Commune",NA,NA
+733,40,"KHM","Cambodia",9,"Kaôh Kong",76,"Mondol Seima",733,"Tuol Kokir Leu","Khum","Commune",NA,NA
+734,40,"KHM","Cambodia",9,"Kaôh Kong",77,"Smach Mean Chey",734,"Dang Tong","Khum","Commune",NA,NA
+735,40,"KHM","Cambodia",9,"Kaôh Kong",77,"Smach Mean Chey",735,"Smach Mean Chey","Khum","Commune",NA,NA
+736,40,"KHM","Cambodia",9,"Kaôh Kong",77,"Smach Mean Chey",736,"Stueng Veaeng","Khum","Commune",NA,NA
+737,40,"KHM","Cambodia",9,"Kaôh Kong",78,"Srae Ambel",737,"Boeng Preav","Khum","Commune",NA,NA
+738,40,"KHM","Cambodia",9,"Kaôh Kong",78,"Srae Ambel",738,"Chi Kha Kraom","Khum","Commune",NA,NA
+739,40,"KHM","Cambodia",9,"Kaôh Kong",78,"Srae Ambel",739,"Chi Kha Leu","Khum","Commune",NA,NA
+740,40,"KHM","Cambodia",9,"Kaôh Kong",78,"Srae Ambel",740,"Chrouy Svay","Khum","Commune",NA,NA
+741,40,"KHM","Cambodia",9,"Kaôh Kong",78,"Srae Ambel",741,"Dang Peaeng","Khum","Commune",NA,NA
+742,40,"KHM","Cambodia",9,"Kaôh Kong",78,"Srae Ambel",742,"n.a. ( 1338)","Khum","Commune",NA,NA
+743,40,"KHM","Cambodia",9,"Kaôh Kong",79,"Thma Bang",743,"Chumnoab","Khum","Commune",NA,NA
+744,40,"KHM","Cambodia",9,"Kaôh Kong",79,"Thma Bang",744,"Pralay","Khum","Commune",NA,NA
+745,40,"KHM","Cambodia",9,"Kaôh Kong",79,"Thma Bang",745,"Ruessei Chrum","Khum","Commune",NA,NA
+746,40,"KHM","Cambodia",9,"Kaôh Kong",79,"Thma Bang",746,"Ta Tey Leu","Khum","Commune",NA,NA
+747,40,"KHM","Cambodia",10,"Kep",80,"Kaeb",747,"n.a. ( 1564)","Khum","Commune",NA,NA
+748,40,"KHM","Cambodia",10,"Kep",80,"Kaeb",748,"n.a. ( 1574)","Khum","Commune",NA,NA
+749,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",749,"Chhloung","Khum","Commune",NA,NA
+750,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",750,"Damrei Phong","Khum","Commune",NA,NA
+751,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",751,"Han Chey","Khum","Commune",NA,NA
+752,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",752,"Kampong Damrei","Khum","Commune",NA,NA
+753,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",753,"Kanhchor","Khum","Commune",NA,NA
+754,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",754,"Khsach Andaet","Khum","Commune",NA,NA
+755,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",755,"Pongro","Khum","Commune",NA,NA
+756,40,"KHM","Cambodia",11,"Krâchéh",81,"Chhloung",756,"Preaek Saman","Khum","Commune",NA,NA
+757,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",757,"Bos Leav","Khum","Commune",NA,NA
+758,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",758,"Changkrang","Khum","Commune",NA,NA
+759,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",759,"Dar","Khum","Commune",NA,NA
+760,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",760,"Kantuot","Khum","Commune",NA,NA
+761,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",761,"Kaoh Chraeng","Khum","Commune",NA,NA
+762,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",762,"Kaoh Trong","Khum","Commune",NA,NA
+763,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",763,"Kou Loab","Khum","Commune",NA,NA
+764,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",764,"Kracheh","Khum","Commune",NA,NA
+765,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",765,"Krakor","Khum","Commune",NA,NA
+766,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",766,"Ou Ruessei","Khum","Commune",NA,NA
+767,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",767,"Roka Kandal","Khum","Commune",NA,NA
+768,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",768,"Sambok","Khum","Commune",NA,NA
+769,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",769,"Thma Andaeuk","Khum","Commune",NA,NA
+770,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",770,"Thma Kreae","Khum","Commune",NA,NA
+771,40,"KHM","Cambodia",11,"Krâchéh",82,"Kracheh",771,"Thmei","Khum","Commune",NA,NA
+772,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",772,"Chambak","Khum","Commune",NA,NA
+773,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",773,"Chrouy Banteay","Khum","Commune",NA,NA
+774,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",774,"Kampong Kor","Khum","Commune",NA,NA
+775,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",775,"Kaoh Ta Suy","Khum","Commune",NA,NA
+776,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",776,"Preaek Prasab","Khum","Commune",NA,NA
+777,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",777,"Ruessei Kaev","Khum","Commune",NA,NA
+778,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",778,"Saob","Khum","Commune",NA,NA
+779,40,"KHM","Cambodia",11,"Krâchéh",83,"Preaek Prasab",779,"Ta Mau","Khum","Commune",NA,NA
+780,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",780,"Boeng Char","Khum","Commune",NA,NA
+781,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",781,"Kampong Cham","Khum","Commune",NA,NA
+782,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",782,"Kaoh Khnhaer","Khum","Commune",NA,NA
+783,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",783,"Kbal Damrei","Khum","Commune",NA,NA
+784,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",784,"Ou Krieng","Khum","Commune",NA,NA
+785,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",785,"Roluos Mean Chey","Khum","Commune",NA,NA
+786,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",786,"Sambour","Khum","Commune",NA,NA
+787,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",787,"Sandan","Khum","Commune",NA,NA
+788,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",788,"Srae Chis","Khum","Commune",NA,NA
+789,40,"KHM","Cambodia",11,"Krâchéh",84,"Sambour",789,"Voadthonak","Khum","Commune",NA,NA
+790,40,"KHM","Cambodia",11,"Krâchéh",85,"Snuol",790,"Khsuem","Khum","Commune",NA,NA
+791,40,"KHM","Cambodia",11,"Krâchéh",85,"Snuol",791,"Pir Thnu","Khum","Commune",NA,NA
+792,40,"KHM","Cambodia",11,"Krâchéh",85,"Snuol",792,"Snuol","Khum","Commune",NA,NA
+793,40,"KHM","Cambodia",11,"Krâchéh",85,"Snuol",793,"Srae Char","Khum","Commune",NA,NA
+794,40,"KHM","Cambodia",11,"Krâchéh",85,"Snuol",794,"Svay Chreah","Khum","Commune",NA,NA
+795,40,"KHM","Cambodia",12,"Krong Pailin",86,"Pailin",795,"Ba Yakha","Khum","Commune",NA,NA
+796,40,"KHM","Cambodia",12,"Krong Pailin",86,"Pailin",796,"Ou Tavau","Khum","Commune",NA,NA
+797,40,"KHM","Cambodia",12,"Krong Pailin",86,"Pailin",797,"Pailin","Khum","Commune",NA,NA
+798,40,"KHM","Cambodia",12,"Krong Pailin",86,"Pailin",798,"Tuol Lvea","Khum","Commune",NA,NA
+799,40,"KHM","Cambodia",12,"Krong Pailin",87,"Sala Krau",799,"Ou Andoung","Khum","Commune",NA,NA
+800,40,"KHM","Cambodia",12,"Krong Pailin",87,"Sala Krau",800,"Sala Krau","Khum","Commune",NA,NA
+801,40,"KHM","Cambodia",12,"Krong Pailin",87,"Sala Krau",801,"Stueng Kach","Khum","Commune",NA,NA
+802,40,"KHM","Cambodia",12,"Krong Pailin",87,"Sala Krau",802,"Stueng Trang","Khum","Commune",NA,NA
+803,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",88,"Mittakpheap",803,"Sangkat Bei","Khum","Commune",NA,NA
+804,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",88,"Mittakpheap",804,"Sangkat Buon","Khum","Commune",NA,NA
+805,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",88,"Mittakpheap",805,"Sangkat Muoy","Khum","Commune",NA,NA
+806,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",88,"Mittakpheap",806,"Sangkat Pir","Khum","Commune",NA,NA
+807,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",807,"Andoung Thma","Khum","Commune",NA,NA
+808,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",808,"Bet Trang","Khum","Commune",NA,NA
+809,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",809,"Boeng Ta Prum","Khum","Commune",NA,NA
+810,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",810,"Cheung Kou","Khum","Commune",NA,NA
+811,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",811,"Ou Chrov","Khum","Commune",NA,NA
+812,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",812,"Ou Oknha Heng","Khum","Commune",NA,NA
+813,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",813,"Prey Nob","Khum","Commune",NA,NA
+814,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",814,"Ream","Khum","Commune",NA,NA
+815,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",815,"Sameakki","Khum","Commune",NA,NA
+816,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",816,"Samrong","Khum","Commune",NA,NA
+817,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",817,"Tuek L'ak","Khum","Commune",NA,NA
+818,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",818,"Tuek Thla","Khum","Commune",NA,NA
+819,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",819,"Tuol Toetueng","Khum","Commune",NA,NA
+820,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",89,"Prey Nob",820,"Veal Renh","Khum","Commune",NA,NA
+821,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",90,"Stueng hav",821,"Kampenh","Khum","Commune",NA,NA
+822,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",90,"Stueng hav",822,"Ou Treh","Khum","Commune",NA,NA
+823,40,"KHM","Cambodia",13,"Krong Preah Sihanouk",90,"Stueng hav",823,"Tumnob Rolok","Khum","Commune",NA,NA
+824,40,"KHM","Cambodia",14,"Môndól Kiri",91,"Kaev Seima",824,"Chong Phlah","Khum","Commune",NA,NA
+825,40,"KHM","Cambodia",14,"Môndól Kiri",91,"Kaev Seima",825,"Me Mang","Khum","Commune",NA,NA
+826,40,"KHM","Cambodia",14,"Môndól Kiri",91,"Kaev Seima",826,"Srae Chhuk","Khum","Commune",NA,NA
+827,40,"KHM","Cambodia",14,"Môndól Kiri",91,"Kaev Seima",827,"Srae Khtum","Khum","Commune",NA,NA
+828,40,"KHM","Cambodia",14,"Môndól Kiri",91,"Kaev Seima",828,"Srae Preah","Khum","Commune",NA,NA
+829,40,"KHM","Cambodia",14,"Môndól Kiri",92,"Kaoh Nheaek",829,"Nang Khi Loek","Khum","Commune",NA,NA
+830,40,"KHM","Cambodia",14,"Môndól Kiri",92,"Kaoh Nheaek",830,"Ou Buon Leu","Khum","Commune",NA,NA
+831,40,"KHM","Cambodia",14,"Môndól Kiri",92,"Kaoh Nheaek",831,"Roya","Khum","Commune",NA,NA
+832,40,"KHM","Cambodia",14,"Môndól Kiri",92,"Kaoh Nheaek",832,"Sokh Sant","Khum","Commune",NA,NA
+833,40,"KHM","Cambodia",14,"Môndól Kiri",92,"Kaoh Nheaek",833,"Srae Huy","Khum","Commune",NA,NA
+834,40,"KHM","Cambodia",14,"Môndól Kiri",92,"Kaoh Nheaek",834,"Srae Sangkom","Khum","Commune",NA,NA
+835,40,"KHM","Cambodia",14,"Môndól Kiri",93,"Ou Reang",835,"Dak Dam","Khum","Commune",NA,NA
+836,40,"KHM","Cambodia",14,"Môndól Kiri",93,"Ou Reang",836,"Saen Monourom","Khum","Commune",NA,NA
+837,40,"KHM","Cambodia",14,"Môndól Kiri",94,"Pechr Chenda",837,"Bu Chri","Khum","Commune",NA,NA
+838,40,"KHM","Cambodia",14,"Môndól Kiri",94,"Pechr Chenda",838,"Bu Sra","Khum","Commune",NA,NA
+839,40,"KHM","Cambodia",14,"Môndól Kiri",94,"Pechr Chenda",839,"Krang Teh","Khum","Commune",NA,NA
+840,40,"KHM","Cambodia",14,"Môndól Kiri",94,"Pechr Chenda",840,"Srae Ampum","Khum","Commune",NA,NA
+841,40,"KHM","Cambodia",14,"Môndól Kiri",95,"Saen Monourom",841,"Monourom","Khum","Commune",NA,NA
+842,40,"KHM","Cambodia",14,"Môndól Kiri",95,"Saen Monourom",842,"Romonea","Khum","Commune",NA,NA
+843,40,"KHM","Cambodia",14,"Môndól Kiri",95,"Saen Monourom",843,"Sokh Dom","Khum","Commune",NA,NA
+844,40,"KHM","Cambodia",14,"Môndól Kiri",95,"Saen Monourom",844,"Spean Mean Chey","Khum","Commune",NA,NA
+845,40,"KHM","Cambodia",15,"Otdar Mean Chey",96,"Anlong Veaeng",845,"n.a. ( 7)","Khum","Commune",NA,NA
+846,40,"KHM","Cambodia",15,"Otdar Mean Chey",97,"Banteay Ampil",846,"n.a. ( 10)","Khum","Commune",NA,NA
+847,40,"KHM","Cambodia",15,"Otdar Mean Chey",98,"Chong Kal",847,"Cheung Tien","Khum","Commune",NA,NA
+848,40,"KHM","Cambodia",15,"Otdar Mean Chey",98,"Chong Kal",848,"Chong Kal","Khum","Commune",NA,NA
+849,40,"KHM","Cambodia",15,"Otdar Mean Chey",98,"Chong Kal",849,"Krasang","Khum","Commune",NA,NA
+850,40,"KHM","Cambodia",15,"Otdar Mean Chey",98,"Chong Kal",850,"Pongro","Khum","Commune",NA,NA
+851,40,"KHM","Cambodia",15,"Otdar Mean Chey",99,"Samraong",851,"Bansay Reak","Khum","Commune",NA,NA
+852,40,"KHM","Cambodia",15,"Otdar Mean Chey",99,"Samraong",852,"Bos Sbov","Khum","Commune",NA,NA
+853,40,"KHM","Cambodia",15,"Otdar Mean Chey",99,"Samraong",853,"Kriel","Khum","Commune",NA,NA
+854,40,"KHM","Cambodia",15,"Otdar Mean Chey",99,"Samraong",854,"Samraong","Khum","Commune",NA,NA
+855,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",855,"Chaom Chau","Khum","Commune",NA,NA
+856,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",856,"Cheung Aek","Khum","Commune",NA,NA
+857,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",857,"Dangkao","Khum","Commune",NA,NA
+858,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",858,"Kakab","Khum","Commune",NA,NA
+859,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",859,"Kouk Roka","Khum","Commune",NA,NA
+860,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",860,"Krang Pongro","Khum","Commune",NA,NA
+861,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",861,"Krang thnong","Khum","Commune",NA,NA
+862,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",862,"n.a. ( 1022)","Khum","Commune",NA,NA
+863,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",863,"Phleung Chheh Roteh","Khum","Commune",NA,NA
+864,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",864,"Pong Tuek","Khum","Commune",NA,NA
+865,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",865,"Prateah Lang","Khum","Commune",NA,NA
+866,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",866,"Prey Sa","Khum","Commune",NA,NA
+867,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",867,"Prey Veaeng","Khum","Commune",NA,NA
+868,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",868,"Sak Sampov","Khum","Commune",NA,NA
+869,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",869,"Samraong Kraom","Khum","Commune",NA,NA
+870,40,"KHM","Cambodia",16,"Phnom Penh",100,"Dangkao",870,"Trapeang krasang","Khum","Commune",NA,NA
+871,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",871,"Boeng Tumpun","Khum","Commune",NA,NA
+872,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",872,"Chak Angrae Kraom","Khum","Commune",NA,NA
+873,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",873,"Chak Angrae Leu","Khum","Commune",NA,NA
+874,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",874,"Chbar Ampov Muoy","Khum","Commune",NA,NA
+875,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",875,"Chbar Ampov Pir","Khum","Commune",NA,NA
+876,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",876,"Nirouth","Khum","Commune",NA,NA
+877,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",877,"Preaek Pra","Khum","Commune",NA,NA
+878,40,"KHM","Cambodia",16,"Phnom Penh",101,"Mean Chey",878,"Stueng Mean Chey","Khum","Commune",NA,NA
+879,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",879,"n.a. ( 1001)","Khum","Commune",NA,NA
+880,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",880,"n.a. ( 1002)","Khum","Commune",NA,NA
+881,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",881,"n.a. ( 1003)","Khum","Commune",NA,NA
+882,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",882,"n.a. ( 1004)","Khum","Commune",NA,NA
+883,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",883,"n.a. ( 1006)","Khum","Commune",NA,NA
+884,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",884,"n.a. ( 1007)","Khum","Commune",NA,NA
+885,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",885,"n.a. ( 1008)","Khum","Commune",NA,NA
+886,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",886,"n.a. ( 1010)","Khum","Commune",NA,NA
+887,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",887,"n.a. ( 1011)","Khum","Commune",NA,NA
+888,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",888,"n.a. ( 1012)","Khum","Commune",NA,NA
+889,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",889,"n.a. ( 1014)","Khum","Commune",NA,NA
+890,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",890,"n.a. ( 1017)","Khum","Commune",NA,NA
+891,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",891,"n.a. ( 1018)","Khum","Commune",NA,NA
+892,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",892,"n.a. ( 1020)","Khum","Commune",NA,NA
+893,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",893,"n.a. ( 1023)","Khum","Commune",NA,NA
+894,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",894,"n.a. ( 1024)","Khum","Commune",NA,NA
+895,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",895,"n.a. ( 1025)","Khum","Commune",NA,NA
+896,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",896,"n.a. ( 1026)","Khum","Commune",NA,NA
+897,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",897,"n.a. ( 1027)","Khum","Commune",NA,NA
+898,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",898,"n.a. ( 1028)","Khum","Commune",NA,NA
+899,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",899,"n.a. ( 1030)","Khum","Commune",NA,NA
+900,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",900,"n.a. ( 1033)","Khum","Commune",NA,NA
+901,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",901,"n.a. ( 1035)","Khum","Commune",NA,NA
+902,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",902,"n.a. ( 1042)","Khum","Commune",NA,NA
+903,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",903,"n.a. ( 1044)","Khum","Commune",NA,NA
+904,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",904,"n.a. ( 1045)","Khum","Commune",NA,NA
+905,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",905,"n.a. ( 1051)","Khum","Commune",NA,NA
+906,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",906,"n.a. ( 977)","Khum","Commune",NA,NA
+907,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",907,"n.a. ( 978)","Khum","Commune",NA,NA
+908,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",908,"n.a. ( 979)","Khum","Commune",NA,NA
+909,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",909,"n.a. ( 986)","Khum","Commune",NA,NA
+910,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",910,"n.a. ( 987)","Khum","Commune",NA,NA
+911,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",911,"n.a. ( 988)","Khum","Commune",NA,NA
+912,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",912,"n.a. ( 989)","Khum","Commune",NA,NA
+913,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",913,"n.a. ( 990)","Khum","Commune",NA,NA
+914,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",914,"n.a. ( 991)","Khum","Commune",NA,NA
+915,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",915,"n.a. ( 992)","Khum","Commune",NA,NA
+916,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",916,"n.a. ( 993)","Khum","Commune",NA,NA
+917,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",917,"n.a. ( 994)","Khum","Commune",NA,NA
+918,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",918,"n.a. ( 997)","Khum","Commune",NA,NA
+919,40,"KHM","Cambodia",16,"Phnom Penh",102,"Phnom Penh",919,"n.a. ( 998)","Khum","Commune",NA,NA
+920,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",920,"Chrang Chamreh Muoy","Khum","Commune",NA,NA
+921,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",921,"Chrang Chamreh Pir","Khum","Commune",NA,NA
+922,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",922,"Chrouy Changva","Khum","Commune",NA,NA
+923,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",923,"Khmuonh","Khum","Commune",NA,NA
+924,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",924,"Kiloumaetr Lekh Pram","Khum","Commune",NA,NA
+925,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",925,"Phnom Penh Thmei","Khum","Commune",NA,NA
+926,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",926,"Preaek Lieb","Khum","Commune",NA,NA
+927,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",927,"Preaek Ta Sek","Khum","Commune",NA,NA
+928,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",928,"Ruessei Kaev","Khum","Commune",NA,NA
+929,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",929,"Svay Pak","Khum","Commune",NA,NA
+930,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",930,"Tuek Thla","Khum","Commune",NA,NA
+931,40,"KHM","Cambodia",16,"Phnom Penh",103,"Ruessei Kaev",931,"Tuol Sangkae","Khum","Commune",NA,NA
+932,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",932,"Boeng Bat Kandaol","Khum","Commune",NA,NA
+933,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",933,"Boeng Khnar","Khum","Commune",NA,NA
+934,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",934,"Khnar Totueng","Khum","Commune",NA,NA
+935,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",935,"Me Tuek","Khum","Commune",NA,NA
+936,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",936,"n.a. ( 393)","Khum","Commune",NA,NA
+937,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",937,"Ou Ta Paong","Khum","Commune",NA,NA
+938,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",938,"Rumlech","Khum","Commune",NA,NA
+939,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",939,"Snam Preah","Khum","Commune",NA,NA
+940,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",940,"Svay Doun Kaev","Khum","Commune",NA,NA
+941,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",941,"Ta Lou","Khum","Commune",NA,NA
+942,40,"KHM","Cambodia",17,"Pouthisat",104,"Bakan",942,"Trapeang Chong","Khum","Commune",NA,NA
+943,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",943,"Anlong Vil","Khum","Commune",NA,NA
+944,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",944,"Banteay Dei","Khum","Commune",NA,NA
+945,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",945,"Kandieng","Khum","Commune",NA,NA
+946,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",946,"Kanhchor","Khum","Commune",NA,NA
+947,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",947,"n.a. ( 419)","Khum","Commune",NA,NA
+948,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",948,"Srae Sdok","Khum","Commune",NA,NA
+949,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",949,"Svay Luong","Khum","Commune",NA,NA
+950,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",950,"Sya","Khum","Commune",NA,NA
+951,40,"KHM","Cambodia",17,"Pouthisat",105,"Kandieng",951,"Veal","Khum","Commune",NA,NA
+952,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",952,"Anlong Tnaot","Khum","Commune",NA,NA
+953,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",953,"Ansa Chambak","Khum","Commune",NA,NA
+954,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",954,"Boeng Kantuot","Khum","Commune",NA,NA
+955,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",955,"Chheu Tom","Khum","Commune",NA,NA
+956,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",956,"Kampong Pou","Khum","Commune",NA,NA
+957,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",957,"Kbal Trach","Khum","Commune",NA,NA
+958,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",958,"n.a. ( 465)","Khum","Commune",NA,NA
+959,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",959,"Ou Sandan","Khum","Commune",NA,NA
+960,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",960,"Sna Ansa","Khum","Commune",NA,NA
+961,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",961,"Svay Sa","Khum","Commune",NA,NA
+962,40,"KHM","Cambodia",17,"Pouthisat",106,"Krakor",962,"Tnaot Chum","Khum","Commune",NA,NA
+963,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh",963,"Bak Chenhchien","Khum","Commune",NA,NA
+964,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh",964,"Leach","Khum","Commune",NA,NA
+965,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh",965,"Phteah Rung","Khum","Commune",NA,NA
+966,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh",966,"Prongil","Khum","Commune",NA,NA
+967,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh",967,"Rokat","Khum","Commune",NA,NA
+968,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh",968,"Samraong","Khum","Commune",NA,NA
+969,40,"KHM","Cambodia",17,"Pouthisat",107,"Phnum Kravanh",969,"Santreae","Khum","Commune",NA,NA
+970,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas",970,"Chamraeun Phal","Khum","Commune",NA,NA
+971,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas",971,"Kaoh Chum","Khum","Commune",NA,NA
+972,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas",972,"Lolok Sa","Khum","Commune",NA,NA
+973,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas",973,"Phteah Prey","Khum","Commune",NA,NA
+974,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas",974,"Prey Nhi","Khum","Commune",NA,NA
+975,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas",975,"Roleab","Khum","Commune",NA,NA
+976,40,"KHM","Cambodia",17,"Pouthisat",108,"Sampov Meas",976,"Svay at","Khum","Commune",NA,NA
+977,40,"KHM","Cambodia",17,"Pouthisat",109,"Veal Veaeng",977,"n.a. ( 514)","Khum","Commune",NA,NA
+978,40,"KHM","Cambodia",18,"Preah Vihéar",110,"Chey Saen",978,"Chrach","Khum","Commune",NA,NA
+979,40,"KHM","Cambodia",18,"Preah Vihéar",110,"Chey Saen",979,"Khyang","Khum","Commune",NA,NA
+980,40,"KHM","Cambodia",18,"Preah Vihéar",110,"Chey Saen",980,"Putrea","Khum","Commune",NA,NA
+981,40,"KHM","Cambodia",18,"Preah Vihéar",110,"Chey Saen",981,"S'ang","Khum","Commune",NA,NA
+982,40,"KHM","Cambodia",18,"Preah Vihéar",110,"Chey Saen",982,"Tasu","Khum","Commune",NA,NA
+983,40,"KHM","Cambodia",18,"Preah Vihéar",110,"Chey Saen",983,"Yhmea","Khum","Commune",NA,NA
+984,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",984,"Chhaeb Muoy","Khum","Commune",NA,NA
+985,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",985,"Chhaeb Pir","Khum","Commune",NA,NA
+986,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",986,"Kampong Sralau Muoy","Khum","Commune",NA,NA
+987,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",987,"Kampong Sralau Pir","Khum","Commune",NA,NA
+988,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",988,"Mlu Prey Muoy","Khum","Commune",NA,NA
+989,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",989,"Mlu Prey Pir","Khum","Commune",NA,NA
+990,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",990,"Sangkae Muoy","Khum","Commune",NA,NA
+991,40,"KHM","Cambodia",18,"Preah Vihéar",111,"Chhaeb",991,"Sangkae Pir","Khum","Commune",NA,NA
+992,40,"KHM","Cambodia",18,"Preah Vihéar",112,"Choam Khsant",992,"Choam Ksant","Khum","Commune",NA,NA
+993,40,"KHM","Cambodia",18,"Preah Vihéar",112,"Choam Khsant",993,"Kantuot","Khum","Commune",NA,NA
+994,40,"KHM","Cambodia",18,"Preah Vihéar",112,"Choam Khsant",994,"Pring Thum","Khum","Commune",NA,NA
+995,40,"KHM","Cambodia",18,"Preah Vihéar",112,"Choam Khsant",995,"Rumdaoh Srae","Khum","Commune",NA,NA
+996,40,"KHM","Cambodia",18,"Preah Vihéar",112,"Choam Khsant",996,"Tuek Kraham","Khum","Commune",NA,NA
+997,40,"KHM","Cambodia",18,"Preah Vihéar",112,"Choam Khsant",997,"Yeang","Khum","Commune",NA,NA
+998,40,"KHM","Cambodia",18,"Preah Vihéar",113,"Kuleaen",998,"Kuleaen Cheung","Khum","Commune",NA,NA
+999,40,"KHM","Cambodia",18,"Preah Vihéar",113,"Kuleaen",999,"Kuleaen Tboung","Khum","Commune",NA,NA
+1000,40,"KHM","Cambodia",18,"Preah Vihéar",113,"Kuleaen",1000,"Phnum Penh","Khum","Commune",NA,NA
+1001,40,"KHM","Cambodia",18,"Preah Vihéar",113,"Kuleaen",1001,"Phnum Tbaeng Pir","Khum","Commune",NA,NA
+1002,40,"KHM","Cambodia",18,"Preah Vihéar",113,"Kuleaen",1002,"Srayang","Khum","Commune",NA,NA
+1003,40,"KHM","Cambodia",18,"Preah Vihéar",113,"Kuleaen",1003,"Thmei","Khum","Commune",NA,NA
+1004,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1004,"Reaksa","Khum","Commune",NA,NA
+1005,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1005,"Reaksmei","Khum","Commune",NA,NA
+1006,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1006,"Rieb Roy","Khum","Commune",NA,NA
+1007,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1007,"Rik Reay","Khum","Commune",NA,NA
+1008,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1008,"Robieb","Khum","Commune",NA,NA
+1009,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1009,"Rohas","Khum","Commune",NA,NA
+1010,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1010,"Romoniy","Khum","Commune",NA,NA
+1011,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1011,"Romtom","Khum","Commune",NA,NA
+1012,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1012,"Rotanak","Khum","Commune",NA,NA
+1013,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1013,"Rumdaoh","Khum","Commune",NA,NA
+1014,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1014,"Rung Roeang","Khum","Commune",NA,NA
+1015,40,"KHM","Cambodia",18,"Preah Vihéar",114,"Rovieng",1015,"Ruos Roan","Khum","Commune",NA,NA
+1016,40,"KHM","Cambodia",18,"Preah Vihéar",115,"Sangkom Thmei",1016,"Chamraeun","Khum","Commune",NA,NA
+1017,40,"KHM","Cambodia",18,"Preah Vihéar",115,"Sangkom Thmei",1017,"Phnum Tbaeng Muoy","Khum","Commune",NA,NA
+1018,40,"KHM","Cambodia",18,"Preah Vihéar",115,"Sangkom Thmei",1018,"Ro'ang","Khum","Commune",NA,NA
+1019,40,"KHM","Cambodia",18,"Preah Vihéar",115,"Sangkom Thmei",1019,"Ronak Ser","Khum","Commune",NA,NA
+1020,40,"KHM","Cambodia",18,"Preah Vihéar",115,"Sangkom Thmei",1020,"Sdau","Khum","Commune",NA,NA
+1021,40,"KHM","Cambodia",18,"Preah Vihéar",116,"Tbaeng Mean chey",1021,"Chhean Mukh","Khum","Commune",NA,NA
+1022,40,"KHM","Cambodia",18,"Preah Vihéar",116,"Tbaeng Mean chey",1022,"Kampong Pranak","Khum","Commune",NA,NA
+1023,40,"KHM","Cambodia",18,"Preah Vihéar",116,"Tbaeng Mean chey",1023,"Pal Hal","Khum","Commune",NA,NA
+1024,40,"KHM","Cambodia",18,"Preah Vihéar",116,"Tbaeng Mean chey",1024,"Pou","Khum","Commune",NA,NA
+1025,40,"KHM","Cambodia",18,"Preah Vihéar",116,"Tbaeng Mean chey",1025,"Prame","Khum","Commune",NA,NA
+1026,40,"KHM","Cambodia",18,"Preah Vihéar",116,"Tbaeng Mean chey",1026,"Preah Khleang","Khum","Commune",NA,NA
+1027,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1027,"Boeng Preah","Khum","Commune",NA,NA
+1028,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1028,"Cheung Phnum","Khum","Commune",NA,NA
+1029,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1029,"Chheu Kach","Khum","Commune",NA,NA
+1030,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1030,"Reaks Chey","Khum","Commune",NA,NA
+1031,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1031,"Roung Damrei","Khum","Commune",NA,NA
+1032,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1032,"Sdau Kaong","Khum","Commune",NA,NA
+1033,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1033,"Spueu Ka","Khum","Commune",NA,NA
+1034,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1034,"Spueu Kha","Khum","Commune",NA,NA
+1035,40,"KHM","Cambodia",19,"Prey Vêng",117,"Ba Phnum",1035,"Theay","Khum","Commune",NA,NA
+1036,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1036,"Cheach","Khum","Commune",NA,NA
+1037,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1037,"Doun Koeng","Khum","Commune",NA,NA
+1038,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1038,"Krabau","Khum","Commune",NA,NA
+1039,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1039,"Kranhung","Khum","Commune",NA,NA
+1040,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1040,"Seang Khveang","Khum","Commune",NA,NA
+1041,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1041,"Smaong Cheung","Khum","Commune",NA,NA
+1042,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1042,"Smaong Tboung","Khum","Commune",NA,NA
+1043,40,"KHM","Cambodia",19,"Prey Vêng",118,"Kamchay Mear",1043,"Trabaek","Khum","Commune",NA,NA
+1044,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1044,"Baray","Khum","Commune",NA,NA
+1045,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1045,"Cheung Tuek","Khum","Commune",NA,NA
+1046,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1046,"Kampong Leav","Khum","Commune",NA,NA
+1047,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1047,"Pou Rieng","Khum","Commune",NA,NA
+1048,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1048,"Preaek Anteah","Khum","Commune",NA,NA
+1049,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1049,"Preaek Chrey","Khum","Commune",NA,NA
+1050,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1050,"Prey Kanlaong","Khum","Commune",NA,NA
+1051,40,"KHM","Cambodia",19,"Prey Vêng",119,"Kampong Leav",1051,"Ta Kao","Khum","Commune",NA,NA
+1052,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1052,"Ansaong","Khum","Commune",NA,NA
+1053,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1053,"Cham","Khum","Commune",NA,NA
+1054,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1054,"Cheang Daek","Khum","Commune",NA,NA
+1055,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1055,"Chrey","Khum","Commune",NA,NA
+1056,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1056,"Kampong Trabaek","Khum","Commune",NA,NA
+1057,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1057,"Kansaom Ak","Khum","Commune",NA,NA
+1058,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1058,"Kou Khchak","Khum","Commune",NA,NA
+1059,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1059,"Peam Montear","Khum","Commune",NA,NA
+1060,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1060,"Prasat","Khum","Commune",NA,NA
+1061,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1061,"Pratheat","Khum","Commune",NA,NA
+1062,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1062,"Prey Chhor","Khum","Commune",NA,NA
+1063,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1063,"Prey Poun","Khum","Commune",NA,NA
+1064,40,"KHM","Cambodia",19,"Prey Vêng",120,"Kampong Trabaek",1064,"Thkov","Khum","Commune",NA,NA
+1065,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1065,"Chong Ampil","Khum","Commune",NA,NA
+1066,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1066,"Kanhchriech","Khum","Commune",NA,NA
+1067,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1067,"Kdoeang Reay","Khum","Commune",NA,NA
+1068,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1068,"Kouk Kong Kaeut","Khum","Commune",NA,NA
+1069,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1069,"Kouk Kong Lech","Khum","Commune",NA,NA
+1070,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1070,"Preal","Khum","Commune",NA,NA
+1071,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1071,"Thma Pun","Khum","Commune",NA,NA
+1072,40,"KHM","Cambodia",19,"Prey Vêng",121,"Kanhchriech",1072,"Tnaot","Khum","Commune",NA,NA
+1073,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1073,"Angkor Sar","Khum","Commune",NA,NA
+1074,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1074,"Chi Phok","Khum","Commune",NA,NA
+1075,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1075,"Chres","Khum","Commune",NA,NA
+1076,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1076,"Prey Khnes","Khum","Commune",NA,NA
+1077,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1077,"Prey Rumdeng","Khum","Commune",NA,NA
+1078,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1078,"Prey Totueng","Khum","Commune",NA,NA
+1079,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1079,"Svay Chrum","Khum","Commune",NA,NA
+1080,40,"KHM","Cambodia",19,"Prey Vêng",122,"Me Sang",1080,"Trapeang Srae","Khum","Commune",NA,NA
+1081,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1081,"Kampong Popil","Khum","Commune",NA,NA
+1082,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1082,"Kampong Prang","Khum","Commune",NA,NA
+1083,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1083,"Kampong Ruessei","Khum","Commune",NA,NA
+1084,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1084,"Kanhcham","Khum","Commune",NA,NA
+1085,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1085,"Mesa Prachan","Khum","Commune",NA,NA
+1086,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1086,"Preaek Ta Sar","Khum","Commune",NA,NA
+1087,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1087,"Prey Pnov","Khum","Commune",NA,NA
+1088,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1088,"Prey Sniet","Khum","Commune",NA,NA
+1089,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1089,"Prey Sralet","Khum","Commune",NA,NA
+1090,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1090,"Reab","Khum","Commune",NA,NA
+1091,40,"KHM","Cambodia",19,"Prey Vêng",123,"Pea Reang",1091,"Roka","Khum","Commune",NA,NA
+1092,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1092,"Angkor Angk","Khum","Commune",NA,NA
+1093,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1093,"Kampong Prasat","Khum","Commune",NA,NA
+1094,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1094,"Kaoh Chek","Khum","Commune",NA,NA
+1095,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1095,"Kaoh Roka","Khum","Commune",NA,NA
+1096,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1096,"Kaoh Sampov","Khum","Commune",NA,NA
+1097,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1097,"Krang Ta Yang","Khum","Commune",NA,NA
+1098,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1098,"Preaek Krabau","Khum","Commune",NA,NA
+1099,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1099,"Preaek Sambuor","Khum","Commune",NA,NA
+1100,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1100,"Ruessei Srok","Khum","Commune",NA,NA
+1101,40,"KHM","Cambodia",19,"Prey Vêng",124,"Peam Chor",1101,"Svay Phluoh","Khum","Commune",NA,NA
+1102,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1102,"Ba Baong","Khum","Commune",NA,NA
+1103,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1103,"Banlich Prasat","Khum","Commune",NA,NA
+1104,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1104,"Neak Loeang","Khum","Commune",NA,NA
+1105,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1105,"Peam Mean Chey","Khum","Commune",NA,NA
+1106,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1106,"Peam Ro","Khum","Commune",NA,NA
+1107,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1107,"Preaek Khsay Ka","Khum","Commune",NA,NA
+1108,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1108,"Preaek Khsay Kha","Khum","Commune",NA,NA
+1109,40,"KHM","Cambodia",19,"Prey Vêng",125,"Peam Ro",1109,"Prey Kandieng","Khum","Commune",NA,NA
+1110,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1110,"Angkor Reach","Khum","Commune",NA,NA
+1111,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1111,"Banteay Chakrei","Khum","Commune",NA,NA
+1112,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1112,"Boeng Daol","Khum","Commune",NA,NA
+1113,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1113,"Chey Kampok","Khum","Commune",NA,NA
+1114,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1114,"Kampong Soeng","Khum","Commune",NA,NA
+1115,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1115,"Krang Svay","Khum","Commune",NA,NA
+1116,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1116,"Lvea","Khum","Commune",NA,NA
+1117,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1117,"Preah Sdach","Khum","Commune",NA,NA
+1118,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1118,"Reathor","Khum","Commune",NA,NA
+1119,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1119,"Rumchek","Khum","Commune",NA,NA
+1120,40,"KHM","Cambodia",19,"Prey Vêng",126,"Preah Sdach",1120,"Seena Reach Otdam","Khum","Commune",NA,NA
+1121,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1121,"Angkor Tret","Khum","Commune",NA,NA
+1122,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1122,"Chea Khlang","Khum","Commune",NA,NA
+1123,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1123,"Chrey","Khum","Commune",NA,NA
+1124,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1124,"Damrei Puon","Khum","Commune",NA,NA
+1125,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1125,"Me Bon","Khum","Commune",NA,NA
+1126,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1126,"Pean Roung","Khum","Commune",NA,NA
+1127,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1127,"Popueus","Khum","Commune",NA,NA
+1128,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1128,"Prey Khla","Khum","Commune",NA,NA
+1129,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1129,"Samraong","Khum","Commune",NA,NA
+1130,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1130,"Svay Antor","Khum","Commune",NA,NA
+1131,40,"KHM","Cambodia",19,"Prey Vêng",127,"Prey Veaeng",1131,"Tuek Thla","Khum","Commune",NA,NA
+1132,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1132,"Ampil Krau","Khum","Commune",NA,NA
+1133,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1133,"Chrey Khmum","Khum","Commune",NA,NA
+1134,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1134,"Lve","Khum","Commune",NA,NA
+1135,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1135,"Pnov Ti Muoy","Khum","Commune",NA,NA
+1136,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1136,"Pnov Ti Pir","Khum","Commune",NA,NA
+1137,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1137,"Pou Ti","Khum","Commune",NA,NA
+1138,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1138,"Preaek Changkran","Khum","Commune",NA,NA
+1139,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1139,"Prey Daeum Thnoeng","Khum","Commune",NA,NA
+1140,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1140,"Prey Tueng","Khum","Commune",NA,NA
+1141,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1141,"Ruessei Sanh","Khum","Commune",NA,NA
+1142,40,"KHM","Cambodia",19,"Prey Vêng",128,"Sithor Kandal",1142,"Rumlech","Khum","Commune",NA,NA
+1143,40,"KHM","Cambodia",20,"Rôtânôkiri",129,"Andoung Meas",1143,"Mai Hie","Khum","Commune",NA,NA
+1144,40,"KHM","Cambodia",20,"Rôtânôkiri",129,"Andoung Meas",1144,"Malik","Khum","Commune",NA,NA
+1145,40,"KHM","Cambodia",20,"Rôtânôkiri",129,"Andoung Meas",1145,"Nhang","Khum","Commune",NA,NA
+1146,40,"KHM","Cambodia",20,"Rôtânôkiri",129,"Andoung Meas",1146,"Ta Lav","Khum","Commune",NA,NA
+1147,40,"KHM","Cambodia",20,"Rôtânôkiri",130,"Ban Lung",1147,"Kachanh","Khum","Commune",NA,NA
+1148,40,"KHM","Cambodia",20,"Rôtânôkiri",130,"Ban Lung",1148,"Labansiek","Khum","Commune",NA,NA
+1149,40,"KHM","Cambodia",20,"Rôtânôkiri",130,"Ban Lung",1149,"Yeak Laom","Khum","Commune",NA,NA
+1150,40,"KHM","Cambodia",20,"Rôtânôkiri",131,"Bar Kaev",1150,"Kak","Khum","Commune",NA,NA
+1151,40,"KHM","Cambodia",20,"Rôtânôkiri",131,"Bar Kaev",1151,"Ke Chong","Khum","Commune",NA,NA
+1152,40,"KHM","Cambodia",20,"Rôtânôkiri",131,"Bar Kaev",1152,"Laming","Khum","Commune",NA,NA
+1153,40,"KHM","Cambodia",20,"Rôtânôkiri",131,"Bar Kaev",1153,"Lung Khung","Khum","Commune",NA,NA
+1154,40,"KHM","Cambodia",20,"Rôtânôkiri",131,"Bar Kaev",1154,"Seung","Khum","Commune",NA,NA
+1155,40,"KHM","Cambodia",20,"Rôtânôkiri",131,"Bar Kaev",1155,"Ting Chak","Khum","Commune",NA,NA
+1156,40,"KHM","Cambodia",20,"Rôtânôkiri",132,"Koun Mom",1156,"Serei Mongkol","Khum","Commune",NA,NA
+1157,40,"KHM","Cambodia",20,"Rôtânôkiri",132,"Koun Mom",1157,"Srae Angkrong","Khum","Commune",NA,NA
+1158,40,"KHM","Cambodia",20,"Rôtânôkiri",132,"Koun Mom",1158,"Ta Ang","Khum","Commune",NA,NA
+1159,40,"KHM","Cambodia",20,"Rôtânôkiri",132,"Koun Mom",1159,"Toen","Khum","Commune",NA,NA
+1160,40,"KHM","Cambodia",20,"Rôtânôkiri",132,"Koun Mom",1160,"Trapeang Chres","Khum","Commune",NA,NA
+1161,40,"KHM","Cambodia",20,"Rôtânôkiri",132,"Koun Mom",1161,"Trapeang Kraham","Khum","Commune",NA,NA
+1162,40,"KHM","Cambodia",20,"Rôtânôkiri",133,"Lumphat",1162,"Chey Otdam","Khum","Commune",NA,NA
+1163,40,"KHM","Cambodia",20,"Rôtânôkiri",133,"Lumphat",1163,"Ka Laeng","Khum","Commune",NA,NA
+1164,40,"KHM","Cambodia",20,"Rôtânôkiri",133,"Lumphat",1164,"La Bang Muoy","Khum","Commune",NA,NA
+1165,40,"KHM","Cambodia",20,"Rôtânôkiri",133,"Lumphat",1165,"La Bang Pir","Khum","Commune",NA,NA
+1166,40,"KHM","Cambodia",20,"Rôtânôkiri",133,"Lumphat",1166,"Pa Tang","Khum","Commune",NA,NA
+1167,40,"KHM","Cambodia",20,"Rôtânôkiri",133,"Lumphat",1167,"Seda","Khum","Commune",NA,NA
+1168,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum",1168,"Aekakpheap","Khum","Commune",NA,NA
+1169,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum",1169,"Cha Ung","Khum","Commune",NA,NA
+1170,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum",1170,"Chan","Khum","Commune",NA,NA
+1171,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum",1171,"Kalai","Khum","Commune",NA,NA
+1172,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum",1172,"L'ak","Khum","Commune",NA,NA
+1173,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum",1173,"Ou Chum","Khum","Commune",NA,NA
+1174,40,"KHM","Cambodia",20,"Rôtânôkiri",134,"Ou Chum",1174,"Sameakki","Khum","Commune",NA,NA
+1175,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav",1175,"Bar Kham","Khum","Commune",NA,NA
+1176,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav",1176,"Lum Choar","Khum","Commune",NA,NA
+1177,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav",1177,"Pak Nhai","Khum","Commune",NA,NA
+1178,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav",1178,"Pate","Khum","Commune",NA,NA
+1179,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav",1179,"Saom Thum","Khum","Commune",NA,NA
+1180,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav",1180,"Sesant","Khum","Commune",NA,NA
+1181,40,"KHM","Cambodia",20,"Rôtânôkiri",135,"Ou Ya Dav",1181,"Ya Tung","Khum","Commune",NA,NA
+1182,40,"KHM","Cambodia",20,"Rôtânôkiri",136,"Ta Veaeng",1182,"n.a. ( 1)","Khum","Commune",NA,NA
+1183,40,"KHM","Cambodia",20,"Rôtânôkiri",136,"Ta Veaeng",1183,"Ta Veaeng Kraom","Khum","Commune",NA,NA
+1184,40,"KHM","Cambodia",20,"Rôtânôkiri",136,"Ta Veaeng",1184,"Ta Veaeng Leu","Khum","Commune",NA,NA
+1185,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1185,"Ban Pong","Khum","Commune",NA,NA
+1186,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1186,"Hat Pak","Khum","Commune",NA,NA
+1187,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1187,"Ka Choun","Khum","Commune",NA,NA
+1188,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1188,"Kaoh Pang","Khum","Commune",NA,NA
+1189,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1189,"Kaoh Peak","Khum","Commune",NA,NA
+1190,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1190,"Kok Lak","Khum","Commune",NA,NA
+1191,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1191,"n.a. ( 8)","Khum","Commune",NA,NA
+1192,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1192,"Pa Kalan","Khum","Commune",NA,NA
+1193,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1193,"Phnum Kok","Khum","Commune",NA,NA
+1194,40,"KHM","Cambodia",20,"Rôtânôkiri",137,"Veun Sai",1194,"Veun Sai","Khum","Commune",NA,NA
+1195,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum",1195,"Char Chhuk","Khum","Commune",NA,NA
+1196,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum",1196,"Doun Peaeng","Khum","Commune",NA,NA
+1197,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum",1197,"Kouk Doung","Khum","Commune",NA,NA
+1198,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum",1198,"Koul","Khum","Commune",NA,NA
+1199,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum",1199,"Nokor Pheas","Khum","Commune",NA,NA
+1200,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum",1200,"Srae Khvav","Khum","Commune",NA,NA
+1201,40,"KHM","Cambodia",21,"Siemréab",138,"Angkor Chum",1201,"Ta Saom","Khum","Commune",NA,NA
+1202,40,"KHM","Cambodia",21,"Siemréab",139,"Angkor Thum",1202,"Chob Ta Trav","Khum","Commune",NA,NA
+1203,40,"KHM","Cambodia",21,"Siemréab",139,"Angkor Thum",1203,"Leang Dai","Khum","Commune",NA,NA
+1204,40,"KHM","Cambodia",21,"Siemréab",139,"Angkor Thum",1204,"Peak Snaeng","Khum","Commune",NA,NA
+1205,40,"KHM","Cambodia",21,"Siemréab",139,"Angkor Thum",1205,"Svay Chek","Khum","Commune",NA,NA
+1206,40,"KHM","Cambodia",21,"Siemréab",140,"Banteay Srei",1206,"Khnar Sanday","Khum","Commune",NA,NA
+1207,40,"KHM","Cambodia",21,"Siemréab",140,"Banteay Srei",1207,"Khun Ream","Khum","Commune",NA,NA
+1208,40,"KHM","Cambodia",21,"Siemréab",140,"Banteay Srei",1208,"Preak Dak","Khum","Commune",NA,NA
+1209,40,"KHM","Cambodia",21,"Siemréab",140,"Banteay Srei",1209,"Rumchek","Khum","Commune",NA,NA
+1210,40,"KHM","Cambodia",21,"Siemréab",140,"Banteay Srei",1210,"Run Ta Aek","Khum","Commune",NA,NA
+1211,40,"KHM","Cambodia",21,"Siemréab",140,"Banteay Srei",1211,"Tbaeng","Khum","Commune",NA,NA
+1212,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1212,"Anlong Samnar","Khum","Commune",NA,NA
+1213,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1213,"Chi Kraeng","Khum","Commune",NA,NA
+1214,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1214,"Kampong Kdei","Khum","Commune",NA,NA
+1215,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1215,"Khvav","Khum","Commune",NA,NA
+1216,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1216,"Kouk Thlok Kraom","Khum","Commune",NA,NA
+1217,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1217,"Kouk Thlok Leu","Khum","Commune",NA,NA
+1218,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1218,"Lveaeng Ruessei","Khum","Commune",NA,NA
+1219,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1219,"n.a. ( 437)","Khum","Commune",NA,NA
+1220,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1220,"Pongro Kraom","Khum","Commune",NA,NA
+1221,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1221,"Pongro Leu","Khum","Commune",NA,NA
+1222,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1222,"Ruessei Lok","Khum","Commune",NA,NA
+1223,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1223,"Sangvaeuy","Khum","Commune",NA,NA
+1224,40,"KHM","Cambodia",21,"Siemréab",141,"Chi Kraeng",1224,"Spean Tnaot","Khum","Commune",NA,NA
+1225,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1225,"Chonloas Dai","Khum","Commune",NA,NA
+1226,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1226,"Kampong Thkov","Khum","Commune",NA,NA
+1227,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1227,"Kralanh","Khum","Commune",NA,NA
+1228,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1228,"Krouch Kor","Khum","Commune",NA,NA
+1229,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1229,"Roung Kou","Khum","Commune",NA,NA
+1230,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1230,"Saen Sokh","Khum","Commune",NA,NA
+1231,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1231,"Sambuor","Khum","Commune",NA,NA
+1232,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1232,"Snuol","Khum","Commune",NA,NA
+1233,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1233,"Sranal","Khum","Commune",NA,NA
+1234,40,"KHM","Cambodia",21,"Siemréab",142,"Kralanh",1234,"Ta an","Khum","Commune",NA,NA
+1235,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1235,"Ampil","Khum","Commune",NA,NA
+1236,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1236,"Bakong","Khum","Commune",NA,NA
+1237,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1237,"Ballangk","Khum","Commune",NA,NA
+1238,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1238,"Kampong Phluk","Khum","Commune",NA,NA
+1239,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1239,"Kandaek","Khum","Commune",NA,NA
+1240,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1240,"Kantreang","Khum","Commune",NA,NA
+1241,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1241,"Mean Chey","Khum","Commune",NA,NA
+1242,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1242,"n.a. ( 330)","Khum","Commune",NA,NA
+1243,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1243,"Roluos","Khum","Commune",NA,NA
+1244,40,"KHM","Cambodia",21,"Siemréab",143,"Prasat Bakong",1244,"Trapeang Thum","Khum","Commune",NA,NA
+1245,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1245,"Doun Kaev","Khum","Commune",NA,NA
+1246,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1246,"Kaev Poar","Khum","Commune",NA,NA
+1247,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1247,"Kdei Run","Khum","Commune",NA,NA
+1248,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1248,"Khnat","Khum","Commune",NA,NA
+1249,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1249,"Krabei Riel","Khum","Commune",NA,NA
+1250,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1250,"Lvea","Khum","Commune",NA,NA
+1251,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1251,"Mukh Paen","Khum","Commune",NA,NA
+1252,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1252,"n.a. ( 319)","Khum","Commune",NA,NA
+1253,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1253,"Pou Treay","Khum","Commune",NA,NA
+1254,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1254,"Prey Chruk","Khum","Commune",NA,NA
+1255,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1255,"Puok","Khum","Commune",NA,NA
+1256,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1256,"Reul","Khum","Commune",NA,NA
+1257,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1257,"Samraong Yea","Khum","Commune",NA,NA
+1258,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1258,"Sasar Sdam","Khum","Commune",NA,NA
+1259,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1259,"Trei Nhoar","Khum","Commune",NA,NA
+1260,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1260,"Tuek Vil","Khum","Commune",NA,NA
+1261,40,"KHM","Cambodia",21,"Siemréab",144,"Puok",1261,"Yeang","Khum","Commune",NA,NA
+1262,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1262,"Chreav","Khum","Commune",NA,NA
+1263,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1263,"Kouk Chak","Khum","Commune",NA,NA
+1264,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1264,"n.a. ( 321)","Khum","Commune",NA,NA
+1265,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1265,"Nokor Thum","Khum","Commune",NA,NA
+1266,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1266,"Sala Kamraeuk","Khum","Commune",NA,NA
+1267,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1267,"Sambuor","Khum","Commune",NA,NA
+1268,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1268,"Siem Reab","Khum","Commune",NA,NA
+1269,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1269,"Sla Kram","Khum","Commune",NA,NA
+1270,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1270,"Srangae","Khum","Commune",NA,NA
+1271,40,"KHM","Cambodia",21,"Siemréab",145,"Siem Reab",1271,"Svay Dangkum","Khum","Commune",NA,NA
+1272,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1272,"Chan Sar","Khum","Commune",NA,NA
+1273,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1273,"Dam Daek","Khum","Commune",NA,NA
+1274,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1274,"Dan Run","Khum","Commune",NA,NA
+1275,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1275,"Kampong Khleang","Khum","Commune",NA,NA
+1276,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1276,"Khchas","Khum","Commune",NA,NA
+1277,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1277,"Khnar Pou","Khum","Commune",NA,NA
+1278,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1278,"Kien Sangkae","Khum","Commune",NA,NA
+1279,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1279,"n.a. ( 338)","Khum","Commune",NA,NA
+1280,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1280,"Popel","Khum","Commune",NA,NA
+1281,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1281,"Samraong","Khum","Commune",NA,NA
+1282,40,"KHM","Cambodia",21,"Siemréab",146,"Soutr Nikom",1282,"Ta Yaek","Khum","Commune",NA,NA
+1283,40,"KHM","Cambodia",21,"Siemréab",147,"Srei Snam",1283,"Chrouy Neang Nguon","Khum","Commune",NA,NA
+1284,40,"KHM","Cambodia",21,"Siemréab",147,"Srei Snam",1284,"Klang Hay","Khum","Commune",NA,NA
+1285,40,"KHM","Cambodia",21,"Siemréab",147,"Srei Snam",1285,"Moung","Khum","Commune",NA,NA
+1286,40,"KHM","Cambodia",21,"Siemréab",147,"Srei Snam",1286,"Prei","Khum","Commune",NA,NA
+1287,40,"KHM","Cambodia",21,"Siemréab",147,"Srei Snam",1287,"Slaeng Spean","Khum","Commune",NA,NA
+1288,40,"KHM","Cambodia",21,"Siemréab",147,"Srei Snam",1288,"Tram Sasar","Khum","Commune",NA,NA
+1289,40,"KHM","Cambodia",21,"Siemréab",148,"Svay Leu",1289,"Boeng Mealea","Khum","Commune",NA,NA
+1290,40,"KHM","Cambodia",21,"Siemréab",148,"Svay Leu",1290,"Kantuot","Khum","Commune",NA,NA
+1291,40,"KHM","Cambodia",21,"Siemréab",148,"Svay Leu",1291,"Khnang Phnum","Khum","Commune",NA,NA
+1292,40,"KHM","Cambodia",21,"Siemréab",148,"Svay Leu",1292,"Svay Leu","Khum","Commune",NA,NA
+1293,40,"KHM","Cambodia",21,"Siemréab",148,"Svay Leu",1293,"Ta Siem","Khum","Commune",NA,NA
+1294,40,"KHM","Cambodia",21,"Siemréab",149,"Varin",1294,"Lvea Krang","Khum","Commune",NA,NA
+1295,40,"KHM","Cambodia",21,"Siemréab",149,"Varin",1295,"Prasat","Khum","Commune",NA,NA
+1296,40,"KHM","Cambodia",21,"Siemréab",149,"Varin",1296,"Srae Nouy","Khum","Commune",NA,NA
+1297,40,"KHM","Cambodia",21,"Siemréab",149,"Varin",1297,"Svay Sa","Khum","Commune",NA,NA
+1298,40,"KHM","Cambodia",21,"Siemréab",149,"Varin",1298,"Varin","Khum","Commune",NA,NA
+1299,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan",1299,"Kampun","Khum","Commune",NA,NA
+1300,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan",1300,"Kbal Romeas","Khum","Commune",NA,NA
+1301,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan",1301,"Phluk","Khum","Commune",NA,NA
+1302,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan",1302,"Samkhuoy","Khum","Commune",NA,NA
+1303,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan",1303,"Sdau","Khum","Commune",NA,NA
+1304,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan",1304,"Srae Kor","Khum","Commune",NA,NA
+1305,40,"KHM","Cambodia",22,"Stœng Trêng",150,"Sesan",1305,"Ta Lat","Khum","Commune",NA,NA
+1306,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk",1306,"Kaoh Preah","Khum","Commune",NA,NA
+1307,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk",1307,"Kaoh Sampeay","Khum","Commune",NA,NA
+1308,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk",1308,"Kaoh Sralau","Khum","Commune",NA,NA
+1309,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk",1309,"Ou Mreah","Khum","Commune",NA,NA
+1310,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk",1310,"Ou Ruessei Kandal","Khum","Commune",NA,NA
+1311,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk",1311,"Siem Bouk","Khum","Commune",NA,NA
+1312,40,"KHM","Cambodia",22,"Stœng Trêng",151,"Siem Bouk",1312,"Srae Krasang","Khum","Commune",NA,NA
+1313,40,"KHM","Cambodia",22,"Stœng Trêng",152,"Siem Pang",1313,"Preaek Meas","Khum","Commune",NA,NA
+1314,40,"KHM","Cambodia",22,"Stœng Trêng",152,"Siem Pang",1314,"Santepheap","Khum","Commune",NA,NA
+1315,40,"KHM","Cambodia",22,"Stœng Trêng",152,"Siem Pang",1315,"Sekong","Khum","Commune",NA,NA
+1316,40,"KHM","Cambodia",22,"Stœng Trêng",152,"Siem Pang",1316,"Srae Sambour","Khum","Commune",NA,NA
+1317,40,"KHM","Cambodia",22,"Stœng Trêng",152,"Siem Pang",1317,"Thma Kaev","Khum","Commune",NA,NA
+1318,40,"KHM","Cambodia",22,"Stœng Trêng",153,"Stueng Traeng",1318,"Preah Bat","Khum","Commune",NA,NA
+1319,40,"KHM","Cambodia",22,"Stœng Trêng",153,"Stueng Traeng",1319,"Sameakki","Khum","Commune",NA,NA
+1320,40,"KHM","Cambodia",22,"Stœng Trêng",153,"Stueng Traeng",1320,"Sarh Ruessei","Khum","Commune",NA,NA
+1321,40,"KHM","Cambodia",22,"Stœng Trêng",153,"Stueng Traeng",1321,"Stueng Traeng","Khum","Commune",NA,NA
+1322,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1322,"Anlong Chrey","Khum","Commune",NA,NA
+1323,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1323,"Anlong Phe","Khum","Commune",NA,NA
+1324,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1324,"Chamkar Leu","Khum","Commune",NA,NA
+1325,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1325,"Kang Cham","Khum","Commune",NA,NA
+1326,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1326,"Kaoh Snaeng","Khum","Commune",NA,NA
+1327,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1327,"Ou Rai","Khum","Commune",NA,NA
+1328,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1328,"Ou Svay","Khum","Commune",NA,NA
+1329,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1329,"Preah Rumkel","Khum","Commune",NA,NA
+1330,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1330,"Sam'ang","Khum","Commune",NA,NA
+1331,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1331,"Srae Ruessei","Khum","Commune",NA,NA
+1332,40,"KHM","Cambodia",22,"Stœng Trêng",154,"Thala Barivat",1332,"Thala","Khum","Commune",NA,NA
+1333,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1333,"Bati","Khum","Commune",NA,NA
+1334,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1334,"Bavet","Khum","Commune",NA,NA
+1335,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1335,"Chantrea","Khum","Commune",NA,NA
+1336,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1336,"Chres","Khum","Commune",NA,NA
+1337,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1337,"Me Sa Thngak","Khum","Commune",NA,NA
+1338,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1338,"Prasat","Khum","Commune",NA,NA
+1339,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1339,"Prey Angkunh","Khum","Commune",NA,NA
+1340,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1340,"Prey Kokir","Khum","Commune",NA,NA
+1341,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1341,"Samraong","Khum","Commune",NA,NA
+1342,40,"KHM","Cambodia",23,"Svay Rieng",155,"Chantrea",1342,"Tuol Sdei","Khum","Commune",NA,NA
+1343,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1343,"Banteay Krang","Khum","Commune",NA,NA
+1344,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1344,"Ksetr","Khum","Commune",NA,NA
+1345,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1345,"Nhor","Khum","Commune",NA,NA
+1346,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1346,"Preah Ponlea","Khum","Commune",NA,NA
+1347,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1347,"Prey Thum","Khum","Commune",NA,NA
+1348,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1348,"Reach Montir","Khum","Commune",NA,NA
+1349,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1349,"Samlei","Khum","Commune",NA,NA
+1350,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1350,"Samyaong","Khum","Commune",NA,NA
+1351,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1351,"Svay Ta Yean","Khum","Commune",NA,NA
+1352,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1352,"Svay Toea","Khum","Commune",NA,NA
+1353,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1353,"Thmei","Khum","Commune",NA,NA
+1354,40,"KHM","Cambodia",23,"Svay Rieng",156,"Kampong Rou",1354,"Tnaot","Khum","Commune",NA,NA
+1355,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1355,"Ampil","Khum","Commune",NA,NA
+1356,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1356,"Andoung Pou","Khum","Commune",NA,NA
+1357,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1357,"Andoung Trabaek","Khum","Commune",NA,NA
+1358,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1358,"Angk Prasrae","Khum","Commune",NA,NA
+1359,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1359,"Chantrei","Khum","Commune",NA,NA
+1360,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1360,"Chrey Thum","Khum","Commune",NA,NA
+1361,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1361,"Doung","Khum","Commune",NA,NA
+1362,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1362,"Kampong Trach","Khum","Commune",NA,NA
+1363,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1363,"Kokir","Khum","Commune",NA,NA
+1364,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1364,"Krasang","Khum","Commune",NA,NA
+1365,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1365,"Mream","Khum","Commune",NA,NA
+1366,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1366,"Mukh Da","Khum","Commune",NA,NA
+1367,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1367,"Sambatt Mean Chey","Khum","Commune",NA,NA
+1368,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1368,"Sambuor","Khum","Commune",NA,NA
+1369,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1369,"Trapeang Sdau","Khum","Commune",NA,NA
+1370,40,"KHM","Cambodia",23,"Svay Rieng",157,"Romeas Haek",1370,"Tras","Khum","Commune",NA,NA
+1371,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1371,"Bos Mon","Khum","Commune",NA,NA
+1372,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1372,"Chak","Khum","Commune",NA,NA
+1373,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1373,"Chrung Popel","Khum","Commune",NA,NA
+1374,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1374,"Kampong Ampil","Khum","Commune",NA,NA
+1375,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1375,"Meun Chey","Khum","Commune",NA,NA
+1376,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1376,"Pong Tuek","Khum","Commune",NA,NA
+1377,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1377,"Sangkae","Khum","Commune",NA,NA
+1378,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1378,"Svay Chek","Khum","Commune",NA,NA
+1379,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1379,"Thmea","Khum","Commune",NA,NA
+1380,40,"KHM","Cambodia",23,"Svay Rieng",158,"Rumduol",1380,"Thna Thnong","Khum","Commune",NA,NA
+1381,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1381,"Angk Ta Sou","Khum","Commune",NA,NA
+1382,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1382,"Basak","Khum","Commune",NA,NA
+1383,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1383,"Chambak","Khum","Commune",NA,NA
+1384,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1384,"Chamlang","Khum","Commune",NA,NA
+1385,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1385,"Chek","Khum","Commune",NA,NA
+1386,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1386,"Chheu Teal","Khum","Commune",NA,NA
+1387,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1387,"Doun Sa","Khum","Commune",NA,NA
+1388,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1388,"Kouk Pring","Khum","Commune",NA,NA
+1389,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1389,"Kraol Kou","Khum","Commune",NA,NA
+1390,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1390,"Kruos","Khum","Commune",NA,NA
+1391,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1391,"Pouthi Reach","Khum","Commune",NA,NA
+1392,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1392,"Svay Angk","Khum","Commune",NA,NA
+1393,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1393,"Svay Chrum","Khum","Commune",NA,NA
+1394,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1394,"Svay Thum","Khum","Commune",NA,NA
+1395,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1395,"Svay Yea","Khum","Commune",NA,NA
+1396,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1396,"Ta Suos","Khum","Commune",NA,NA
+1397,40,"KHM","Cambodia",23,"Svay Rieng",159,"Svay Chrum",1397,"Thlok","Khum","Commune",NA,NA
+1398,40,"KHM","Cambodia",23,"Svay Rieng",160,"Svay Rieng",1398,"Koy Trabaek","Khum","Commune",NA,NA
+1399,40,"KHM","Cambodia",23,"Svay Rieng",160,"Svay Rieng",1399,"Pou Ta Hao","Khum","Commune",NA,NA
+1400,40,"KHM","Cambodia",23,"Svay Rieng",160,"Svay Rieng",1400,"Prey Chhlak","Khum","Commune",NA,NA
+1401,40,"KHM","Cambodia",23,"Svay Rieng",160,"Svay Rieng",1401,"Svay Rieng","Khum","Commune",NA,NA
+1402,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1402,"Chrak Mtes","Khum","Commune",NA,NA
+1403,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1403,"Kandieng Reay","Khum","Commune",NA,NA
+1404,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1404,"Kokir Saom","Khum","Commune",NA,NA
+1405,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1405,"Monourom","Khum","Commune",NA,NA
+1406,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1406,"Popeaek","Khum","Commune",NA,NA
+1407,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1407,"Prasout","Khum","Commune",NA,NA
+1408,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1408,"Prey Ta Ei","Khum","Commune",NA,NA
+1409,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1409,"Romeang Thkaol","Khum","Commune",NA,NA
+1410,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1410,"Sambuor","Khum","Commune",NA,NA
+1411,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1411,"Sangkhoar","Khum","Commune",NA,NA
+1412,40,"KHM","Cambodia",23,"Svay Rieng",161,"Svay Teab",1412,"Svay Rumpea","Khum","Commune",NA,NA
+1413,40,"KHM","Cambodia",24,"Takêv",162,"Angkor Borei",1413,"Angkor Borei","Khum","Commune",NA,NA
+1414,40,"KHM","Cambodia",24,"Takêv",162,"Angkor Borei",1414,"Ba Srae","Khum","Commune",NA,NA
+1415,40,"KHM","Cambodia",24,"Takêv",162,"Angkor Borei",1415,"Kouk Thlok","Khum","Commune",NA,NA
+1416,40,"KHM","Cambodia",24,"Takêv",162,"Angkor Borei",1416,"Ponley","Khum","Commune",NA,NA
+1417,40,"KHM","Cambodia",24,"Takêv",162,"Angkor Borei",1417,"Preaek Phtoul","Khum","Commune",NA,NA
+1418,40,"KHM","Cambodia",24,"Takêv",162,"Angkor Borei",1418,"Prey Phkoam","Khum","Commune",NA,NA
+1419,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1419,"Chambak","Khum","Commune",NA,NA
+1420,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1420,"Champei","Khum","Commune",NA,NA
+1421,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1421,"Doung","Khum","Commune",NA,NA
+1422,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1422,"Kandoeng","Khum","Commune",NA,NA
+1423,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1423,"Komar Reachea","Khum","Commune",NA,NA
+1424,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1424,"Krang Leav","Khum","Commune",NA,NA
+1425,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1425,"Krang thnong","Khum","Commune",NA,NA
+1426,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1426,"Lumpong","Khum","Commune",NA,NA
+1427,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1427,"Pea Ream","Khum","Commune",NA,NA
+1428,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1428,"Pot Sar","Khum","Commune",NA,NA
+1429,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1429,"Souphi","Khum","Commune",NA,NA
+1430,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1430,"Tang Doung","Khum","Commune",NA,NA
+1431,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1431,"Tnaot","Khum","Commune",NA,NA
+1432,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1432,"Trapeang krasang","Khum","Commune",NA,NA
+1433,40,"KHM","Cambodia",24,"Takêv",163,"Bati",1433,"Trapeang Sab","Khum","Commune",NA,NA
+1434,40,"KHM","Cambodia",24,"Takêv",164,"Bourei Cholsar",1434,"Bourei Cholsar","Khum","Commune",NA,NA
+1435,40,"KHM","Cambodia",24,"Takêv",164,"Bourei Cholsar",1435,"Chey Chouk","Khum","Commune",NA,NA
+1436,40,"KHM","Cambodia",24,"Takêv",164,"Bourei Cholsar",1436,"Doung Khpos","Khum","Commune",NA,NA
+1437,40,"KHM","Cambodia",24,"Takêv",164,"Bourei Cholsar",1437,"Kampong Krasang","Khum","Commune",NA,NA
+1438,40,"KHM","Cambodia",24,"Takêv",164,"Bourei Cholsar",1438,"Kouk Pou","Khum","Commune",NA,NA
+1439,40,"KHM","Cambodia",24,"Takêv",165,"Doun Kaev",1439,"Baray","Khum","Commune",NA,NA
+1440,40,"KHM","Cambodia",24,"Takêv",165,"Doun Kaev",1440,"Roka Knong","Khum","Commune",NA,NA
+1441,40,"KHM","Cambodia",24,"Takêv",165,"Doun Kaev",1441,"Roka Krau","Khum","Commune",NA,NA
+1442,40,"KHM","Cambodia",24,"Takêv",166,"Kaoh Andaet",1442,"Krapum Chhuk","Khum","Commune",NA,NA
+1443,40,"KHM","Cambodia",24,"Takêv",166,"Kaoh Andaet",1443,"Pech Sar","Khum","Commune",NA,NA
+1444,40,"KHM","Cambodia",24,"Takêv",166,"Kaoh Andaet",1444,"Prey Khla","Khum","Commune",NA,NA
+1445,40,"KHM","Cambodia",24,"Takêv",166,"Kaoh Andaet",1445,"Prey Yuthka","Khum","Commune",NA,NA
+1446,40,"KHM","Cambodia",24,"Takêv",166,"Kaoh Andaet",1446,"Romenh","Khum","Commune",NA,NA
+1447,40,"KHM","Cambodia",24,"Takêv",166,"Kaoh Andaet",1447,"Thlea Prachum","Khum","Commune",NA,NA
+1448,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1448,"Angk Prasat","Khum","Commune",NA,NA
+1449,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1449,"Kamnab","Khum","Commune",NA,NA
+1450,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1450,"Kampeaeng","Khum","Commune",NA,NA
+1451,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1451,"Kiri Chong Kaoh","Khum","Commune",NA,NA
+1452,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1452,"Kouk Prech","Khum","Commune",NA,NA
+1453,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1453,"Phnum Den","Khum","Commune",NA,NA
+1454,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1454,"Preah Bat Choan Chum","Khum","Commune",NA,NA
+1455,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1455,"Prey Ampok","Khum","Commune",NA,NA
+1456,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1456,"Prey Rumdeng","Khum","Commune",NA,NA
+1457,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1457,"Ream Andaeuk","Khum","Commune",NA,NA
+1458,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1458,"Saom","Khum","Commune",NA,NA
+1459,40,"KHM","Cambodia",24,"Takêv",167,"Kiri Vong",1459,"Ta Ou","Khum","Commune",NA,NA
+1460,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1460,"Angkanh","Khum","Commune",NA,NA
+1461,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1461,"Ban Kam","Khum","Commune",NA,NA
+1462,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1462,"Champa","Khum","Commune",NA,NA
+1463,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1463,"Char","Khum","Commune",NA,NA
+1464,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1464,"Kampeaeng","Khum","Commune",NA,NA
+1465,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1465,"Kampong Reab","Khum","Commune",NA,NA
+1466,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1466,"Kdanh","Khum","Commune",NA,NA
+1467,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1467,"Pou Rumchak","Khum","Commune",NA,NA
+1468,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1468,"Prey Kabbas","Khum","Commune",NA,NA
+1469,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1469,"Prey Lvea","Khum","Commune",NA,NA
+1470,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1470,"Prey Phdau","Khum","Commune",NA,NA
+1471,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1471,"Snao","Khum","Commune",NA,NA
+1472,40,"KHM","Cambodia",24,"Takêv",168,"Prey Kabbas",1472,"Tang Yab","Khum","Commune",NA,NA
+1473,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1473,"Boeng Tranh Khang Ch","Khum","Commune",NA,NA
+1474,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1474,"Boeng Tranh Khang Tb","Khum","Commune",NA,NA
+1475,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1475,"Cheung Kuon","Khum","Commune",NA,NA
+1476,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1476,"Chumreah Pen","Khum","Commune",NA,NA
+1477,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1477,"Khvav","Khum","Commune",NA,NA
+1478,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1478,"Lumchang","Khum","Commune",NA,NA
+1479,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1479,"Rovieng","Khum","Commune",NA,NA
+1480,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1480,"Samraong","Khum","Commune",NA,NA
+1481,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1481,"Sla","Khum","Commune",NA,NA
+1482,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1482,"Soeng","Khum","Commune",NA,NA
+1483,40,"KHM","Cambodia",24,"Takêv",169,"Samraong",1483,"Trea","Khum","Commune",NA,NA
+1484,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1484,"Angk Ta Saom","Khum","Commune",NA,NA
+1485,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1485,"Cheang Tong","Khum","Commune",NA,NA
+1486,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1486,"Kus","Khum","Commune",NA,NA
+1487,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1487,"Leay Bour","Khum","Commune",NA,NA
+1488,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1488,"Nhaeng Nhang","Khum","Commune",NA,NA
+1489,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1489,"Otdam Souriya","Khum","Commune",NA,NA
+1490,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1490,"Ou Saray","Khum","Commune",NA,NA
+1491,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1491,"Popel","Khum","Commune",NA,NA
+1492,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1492,"Samraong","Khum","Commune",NA,NA
+1493,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1493,"Srae Ronoung","Khum","Commune",NA,NA
+1494,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1494,"Ta Phem","Khum","Commune",NA,NA
+1495,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1495,"Tram Kak","Khum","Commune",NA,NA
+1496,40,"KHM","Cambodia",24,"Takêv",170,"Tram Kak",1496,"Trapeang Thum Khang","Khum","Commune",NA,NA
+1497,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1497,"Angk Kaev","Khum","Commune",NA,NA
+1498,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1498,"Angk Khnaor","Khum","Commune",NA,NA
+1499,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1499,"Angkanh","Khum","Commune",NA,NA
+1500,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1500,"Chi Khmar","Khum","Commune",NA,NA
+1501,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1501,"Khvav","Khum","Commune",NA,NA
+1502,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1502,"Prambei Mom","Khum","Commune",NA,NA
+1503,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1503,"Prey Sloek","Khum","Commune",NA,NA
+1504,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1504,"Roneam","Khum","Commune",NA,NA
+1505,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1505,"Sambuor","Khum","Commune",NA,NA
+1506,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1506,"Sanlung","Khum","Commune",NA,NA
+1507,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1507,"Smaong","Khum","Commune",NA,NA
+1508,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1508,"Srangae","Khum","Commune",NA,NA
+1509,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1509,"Thlok","Khum","Commune",NA,NA
+1510,40,"KHM","Cambodia",24,"Takêv",171,"Treang",1510,"Tralach","Khum","Commune",NA,NA
+1511,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae",1511,"Chong Cheach","Khum","Commune",NA,NA
+1512,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae",1512,"Dambae","Khum","Commune",NA,NA
+1513,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae",1513,"Kouk Srok","Khum","Commune",NA,NA
+1514,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae",1514,"Neang Teut","Khum","Commune",NA,NA
+1515,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae",1515,"Seda","Khum","Commune",NA,NA
+1516,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae",1516,"Trapeang Pring","Khum","Commune",NA,NA
+1517,40,"KHM","Cambodia",25,"Tbong Khmum",172,"Dambae",1517,"Tuek Chrov","Khum","Commune",NA,NA
+1518,40,"KHM","Cambodia",25,"Tbong Khmum",173,"Kampong Siem",1518,"Kaoh Samraong","Khum","Commune",NA,NA
+1519,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1519,"Chhuk","Khum","Commune",NA,NA
+1520,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1520,"Chumnik","Khum","Commune",NA,NA
+1521,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1521,"Kampong Treas","Khum","Commune",NA,NA
+1522,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1522,"Kaoh Pir","Khum","Commune",NA,NA
+1523,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1523,"Krouch Chhmar","Khum","Commune",NA,NA
+1524,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1524,"Peus Muoy","Khum","Commune",NA,NA
+1525,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1525,"Peus Pir","Khum","Commune",NA,NA
+1526,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1526,"Preaek a Chi","Khum","Commune",NA,NA
+1527,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1527,"Roka Khnaor","Khum","Commune",NA,NA
+1528,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1528,"Svay Khleang","Khum","Commune",NA,NA
+1529,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1529,"Trea","Khum","Commune",NA,NA
+1530,40,"KHM","Cambodia",25,"Tbong Khmum",174,"Krouch Chhmar",1530,"Tuol Snuol","Khum","Commune",NA,NA
+1531,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1531,"Chan Mul","Khum","Commune",NA,NA
+1532,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1532,"Choam Kravien","Khum","Commune",NA,NA
+1533,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1533,"Choam Ta Mau","Khum","Commune",NA,NA
+1534,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1534,"Choam","Khum","Commune",NA,NA
+1535,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1535,"Dar","Khum","Commune",NA,NA
+1536,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1536,"Kampoan","Khum","Commune",NA,NA
+1537,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1537,"Kokir","Khum","Commune",NA,NA
+1538,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1538,"Memong","Khum","Commune",NA,NA
+1539,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1539,"Memot","Khum","Commune",NA,NA
+1540,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1540,"Rumchek","Khum","Commune",NA,NA
+1541,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1541,"Rung","Khum","Commune",NA,NA
+1542,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1542,"Tonlung","Khum","Commune",NA,NA
+1543,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1543,"Tramung","Khum","Commune",NA,NA
+1544,40,"KHM","Cambodia",25,"Tbong Khmum",175,"Memot",1544,"Treak","Khum","Commune",NA,NA
+1545,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1545,"Ampil Ta Pok","Khum","Commune",NA,NA
+1546,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1546,"Chak","Khum","Commune",NA,NA
+1547,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1547,"Damrel","Khum","Commune",NA,NA
+1548,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1548,"Kong Chey","Khum","Commune",NA,NA
+1549,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1549,"Mien","Khum","Commune",NA,NA
+1550,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1550,"n.a. ( 788)","Khum","Commune",NA,NA
+1551,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1551,"Preah Theat","Khum","Commune",NA,NA
+1552,40,"KHM","Cambodia",25,"Tbong Khmum",176,"Ou Reang Ov",1552,"Tuol Sophi","Khum","Commune",NA,NA
+1553,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1553,"Doun Tei","Khum","Commune",NA,NA
+1554,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1554,"Kak","Khum","Commune",NA,NA
+1555,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1555,"Kandaol Chrum","Khum","Commune",NA,NA
+1556,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1556,"Kaong Kang","Khum","Commune",NA,NA
+1557,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1557,"Kraek","Khum","Commune",NA,NA
+1558,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1558,"Popel","Khum","Commune",NA,NA
+1559,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1559,"Trapeang Phlong","Khum","Commune",NA,NA
+1560,40,"KHM","Cambodia",25,"Tbong Khmum",177,"Ponhea Kraek",1560,"Veal Mlu","Khum","Commune",NA,NA
+1561,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1561,"Anhchaeum","Khum","Commune",NA,NA
+1562,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1562,"Boeng Pruol","Khum","Commune",NA,NA
+1563,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1563,"Chikor","Khum","Commune",NA,NA
+1564,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1564,"Chirou Muoy","Khum","Commune",NA,NA
+1565,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1565,"Chirou Pir","Khum","Commune",NA,NA
+1566,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1566,"Chob","Khum","Commune",NA,NA
+1567,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1567,"Kor","Khum","Commune",NA,NA
+1568,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1568,"Lngieng","Khum","Commune",NA,NA
+1569,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1569,"Moung Riev","Khum","Commune",NA,NA
+1570,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1570,"Peam Chileang","Khum","Commune",NA,NA
+1571,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1571,"Roka Po Pram","Khum","Commune",NA,NA
+1572,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1572,"Sralab","Khum","Commune",NA,NA
+1573,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1573,"Suong","Khum","Commune",NA,NA
+1574,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1574,"Thma Pechr","Khum","Commune",NA,NA
+1575,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1575,"Tonle Bet","Khum","Commune",NA,NA
+1576,40,"KHM","Cambodia",25,"Tbong Khmum",178,"Tboung Khmum",1576,"Vihear Luong","Khum","Commune",NA,NA
